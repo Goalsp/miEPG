@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/04/2025 18:17" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/04/2025 18:16" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES 4k- LA 1">
     <display-name>ES 4k- LA 1</display-name>
     <icon src="https://media.tvup.cloud/canales/la1.png" />
@@ -12,14 +12,15 @@
     <display-name>Antena 3 HD</display-name>
     <icon src="https://media.tvup.cloud/canales/antena3.png" />
   </channel>
-  <programme start="20250417093000 +0200" stop="20250417140000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E75</title>
+  <programme start="20250418100000 +0200" stop="20250418140000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Mañaneros T2 E166</title>
     <desc lang="es">2025 | ⑯ | ★6.0/10
- · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 49.
+ · Entretenimiento/Magacín · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 7.
 · País: España
-· Dirección: Silvia Intxaurrondo.</desc>
+· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
+· Productora: La Cometa TV.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014756" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014762" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -27,223 +28,26 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417140000 +0200" stop="20250417150000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Extra mañaneros T1 E133</title>
-    <desc lang="es">2025 | ⑯ | ★6.0/10
- · Entretenimiento/Magacín · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 182.
+  <programme start="20250418140000 +0200" stop="20250418150000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Extra mañaneros T1 E134</title>
+    <desc lang="es">2025 | ⑯ | ★4.0/10
+ · Entretenimiento/Magacín · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 5.
 · País: España
 · Presenta: Adela González, Alberto Herrera.
 · Productora: La Cometa TV.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014758" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014764" />
     <rating system="ES">
       <value>16</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
-  </programme>
-  <programme start="20250417150000 +0200" stop="20250417154500 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">2014 | ★6.0/10
- · Información/Informativo · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1564.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417154500 +0200" stop="20250417155000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 235.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417155000 +0200" stop="20250417192000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Ben-Hur</title>
-    <desc lang="es">1959 | ⑫ | ★8.0/10
- · Cine/Acción · La gran epopeya de W. Wyler. Un judío provoca las iras de un amigo de infancia, ahora poderoso tribuno romano; por ello, será condenado a galeras. Votos: 855.
-· País: EE.UU.
-· Dirección: William Wyler.
-· Reparto: Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd, Hugh Griffith, Finlay Currie.
-· Guion: Karl Tunberg.
-· Música: Miklós Rózsa.
-· Producción: Sam Zimbalist.
-· Productora: Metro-Goldwyn-Mayer (MGM).</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3906478" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417192000 +0200" stop="20250417210000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">¿Qué hacemos con los hijos?</title>
-    <desc lang="es">1967 | TP | ★6.0/10
- · Cine/Comedia · Un confiado y castizo taxista presume de tener los mejores hijos del mundo. Hasta que descubre lo que son en realidad. Votos: 244.
-· País: España
-· Dirección: Pedro Lazaga.
-· Reparto: Paco Martínez Soria, Mercedes Vecino, Alfredo Landa, Pepe Rubio, Rafael Alcántara.
-· Guion: Vicente Coello, Carlos Llopis, Pedro Masó.
-· Música: Antón García Abril.
-· Productora: Pedro Masó Producciones Cinematográficas.</desc>
-    <category lang="es">Cine, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP228087" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417210000 +0200" stop="20250417213500 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1342.
-· País: España
-· Presenta: Marta Carazo, Ana Roldán.
-· Productora: Televisión Española (TVE).</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417213500 +0200" stop="20250417214000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 91.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417214000 +0200" stop="20250417225000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">La revuelta T1 E109</title>
-    <desc lang="es">2025 | ⑫ | ★6.0/10
- · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 70.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-    <category lang="es">Entretenimiento, Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3975803" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417225000 +0200" stop="20250418003500 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Fatum</title>
-    <desc lang="es">2023 | ⑯ | ★6.0/10
- · Cine/Thriller · Tras jurar a su esposa que no volvería a caer en el juego, Sergio recibe un soplo y regresa a la casa de apuestas. Pero Alejo irrumpe armado al local. La comisaria Costa pide a Pablo prestar servicio en el atraco. Votos: 70.
-· País: España
-· Dirección: Juan Galiñanes.
-· Reparto: Luis Tosar, Álex García, Elena Anaya, Arón Piper.
-· Guion: Juan Galiñanes, Alberto Marini.
-· Productora: Amazon Prime Video, Axencia Galega das Industrias Culturais (AGADIC).</desc>
-    <category lang="es">Cine, Thriller</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3099240" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418003500 +0200" stop="20250418024500 +0200" channel="ES 4k- LA 1">
-    <title lang="es">As bestas</title>
-    <desc lang="es">2022 | ⑫ | ★6.0/10
- · Cine/Thriller · Antoine y Olga son una pareja francesa que lleva años viviendo en una aldea gallega, trabajando sus tierras de forma sostenible y negándose a venderlas para la instalación de un parque eólico, algo que los ha enfrentado a algunos vecinos. Votos: 2807.
-· País: España y Francia
-· Dirección: Rodrigo Sorogoyen.
-· Reparto: Marina Foïs, Denis Ménochet, Luis Zahera, Diego Anido, Marie Colomb.
-· Guion: Rodrigo Sorogoyen, Isabel Peña.
-· Música: Olivier Arson.
-· Producción: Thomas Pibarot, Anne-Laure Labadie.
-· Productora: Arcadia Motion Pictures, Caballo Films.</desc>
-    <category lang="es">Cine, Thriller</category>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418024500 +0200" stop="20250418025000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Tierra de nadie (Making off)</title>
-    <desc lang="es">2025 | ⑯
- · Cine/Programa de cine · Making off de la película "Tierra de nadie", dirigida por Albert Pintó y que cuenta con un reparto con caras como las de Luis Zahera, Karra Elejalde, Jesús Carroza, Vicente Romero o Paula Díaz, entre otros.
-</desc>
-    <category lang="es">Cine, Programa de cine</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250418025000 +0200" stop="20250418060000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1952.
-· País: España</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418060000 +0200" stop="20250418100000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1952.
-· País: España</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418100000 +0200" stop="20250418140000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Mañaneros T2 E166</title>
-    <desc lang="es">2025 | ⑯
- · Entretenimiento/Magacín · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-</desc>
-    <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250418140000 +0200" stop="20250418150000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Extra mañaneros T1 E134</title>
-    <desc lang="es">2025 | ⑯
- · Entretenimiento/Magacín · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
-</desc>
-    <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
   </programme>
   <programme start="20250418150000 +0200" stop="20250418155500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">2014 | ★6.0/10
- · Información/Informativo · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1302.
+ · Información/Informativo · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1759.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
@@ -256,7 +60,7 @@
   <programme start="20250418155500 +0200" stop="20250418160000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Deportes 1</title>
     <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 17.
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 447.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
     <category lang="es">Deportes, Programa deportes</category>
@@ -268,10 +72,17 @@
   <programme start="20250418160000 +0200" stop="20250418181000 +0200" channel="ES 4k- LA 1">
     <title lang="es">La túnica sagrada</title>
     <desc lang="es">1953 | TP | ★8.0/10
- · Cine/Drama · Un joven tribuno que ha crucificado a Jesús, gana en una apuesta la túnica que llevaba antes de morir. Votos: 114.
-</desc>
+ · Cine/Drama · Un joven tribuno que ha crucificado a Jesús, gana en una apuesta la túnica que llevaba antes de morir. Votos: 123.
+· Título original: The Robe
+· País: EE.UU.
+· Dirección: Henry Koster.
+· Reparto: Dean Jagger, Victor Mature, Richard Burton, Jean Simmons, Richard Boone, Michael Rennie, Betta St. John, Jeff Morrow, Torin Thatcher, Ernest Thesiger, Jay Robinson.
+· Guion: Philip Dunne.
+· Música: Alfred Newman.
+· Producción: Frank Ross.
+· Productora: Twentieth Century Fox.</desc>
     <category lang="es">Cine, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP257023" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -282,7 +93,8 @@
   <programme start="20250418181000 +0200" stop="20250418210000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Quo Vadis</title>
     <desc lang="es">1951 | TP | ★8.0/10
- · Cine/Histórico · En la Roma clásica, un jefe de legión se enamora de una cristiana. Pese a la persecución a los cristianos, su romance perdura. Votos: 129.
+ · Cine/Histórico · En la Roma clásica, un jefe de legión se enamora de una cristiana. Pese a la persecución a los cristianos, su romance perdura. Votos: 137.
+· Título original: Quo Vadis?
 · País: EE.UU.
 · Dirección: Mervyn LeRoy.
 · Reparto: Deborah Kerr, Robert Taylor, Finlay Currie, Leo Genn, Peter Ustinov, Patricia Laffan.
@@ -291,7 +103,7 @@
 · Producción: Sam Zimbalist.
 · Productora: Metro-Goldwyn-Mayer (MGM).</desc>
     <category lang="es">Cine, Histórico</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP14939" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -302,7 +114,7 @@
   <programme start="20250418210000 +0200" stop="20250418214500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Telediario 2</title>
     <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1282.
+ · Información/Informativo · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1413.
 · País: España
 · Presenta: Marta Carazo, Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
@@ -315,7 +127,7 @@
   <programme start="20250418214500 +0200" stop="20250418215000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Deportes 2</title>
     <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 21.
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 166.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
     <category lang="es">Deportes, Programa deportes</category>
@@ -343,7 +155,7 @@
   <programme start="20250418215500 +0200" stop="20250419004000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Sonrisas y lágrimas</title>
     <desc lang="es">1965 | TP | ★6.0/10
- · Cine/Cine musical · En fechas previas a la Segunda Guerra Mundial, una joven novicia abandona el convento para servir como institutriz de la familia Trap. Votos: 320.
+ · Cine/Cine musical · En fechas previas a la Segunda Guerra Mundial, una joven novicia abandona el convento para servir como institutriz de la familia Trap. Votos: 379.
 · Título original: The Sound of Music
 · País: EE.UU.
 · Dirección: Robert Wise.
@@ -385,14 +197,14 @@
   <programme start="20250419022000 +0200" stop="20250419035500 +0200" channel="ES 4k- LA 1">
     <title lang="es">La guerra de papá</title>
     <desc lang="es">1977 | TP | ★8.0/10
- · Cine/Comedia · Comedia familiar en torno a un niño de cuatro años que se siente desplazado ante la llegada de una nueva hermana. Votos: 35.
+ · Cine/Comedia · Comedia familiar en torno a un niño de cuatro años que se siente desplazado ante la llegada de una nueva hermana. Votos: 37.
 · País: España
 · Dirección: Antonio Mercero.
 · Reparto: Héctor Alterio, Queta Claver, Verónica Forqué, Teresa Gimpera, Vicente Parra, Lolo García, Chus Lampreave.
 · Guion: Antonio Mercero, Horacio Valcárcel.
 · Productora: José Frade Producciones Cinematográficas S.A.</desc>
     <category lang="es">Cine, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP346397" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -417,7 +229,7 @@
   <programme start="20250419040000 +0200" stop="20250419060000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1952.
+ · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 2446.
 · País: España</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
@@ -428,7 +240,7 @@
   <programme start="20250419060000 +0200" stop="20250419110500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">2021 | ★6.0/10
- · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1952.
+ · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 2446.
 · País: España</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
@@ -438,47 +250,57 @@
   </programme>
   <programme start="20250419110500 +0200" stop="20250419115800 +0200" channel="ES 4k- LA 1">
     <title lang="es">Españoles en el mundo T1</title>
-    <desc lang="es">Sáhara | 2009 | ⑦
- · Ocio y Aficiones/Viajes · Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
+    <desc lang="es">Sáhara | 2009 | ⑦ | ★6.0/10
+ · Ocio y Aficiones/Viajes · Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 34.
 · País: España
 · Productora: New Atlantis.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1589934" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014791" />
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419115800 +0200" stop="20250419125000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Españoles en el mundo T3</title>
-    <desc lang="es">Jordania | 2009 | ⑦
- · Ocio y Aficiones/Viajes · Siete españoles descubren la belleza de los escenarios que ofrece Jordania.
+    <desc lang="es">Jordania | 2009 | ⑦ | ★4.0/10
+ · Ocio y Aficiones/Viajes · Siete españoles descubren la belleza de los escenarios que ofrece Jordania. Votos: 3.
 · País: España
 · Productora: New Atlantis.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114187" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014740" />
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419125000 +0200" stop="20250419135500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Españoles en el mundo T5</title>
-    <desc lang="es">El Cairo | 2010 | ⑦
- · Ocio y Aficiones/Viajes · El espacio descubre civilizaciones milenarias y viaja por el Nilo en la capital de Egipto.
-</desc>
+    <desc lang="es">El Cairo | 2010 | ⑦ | ★10.0/10
+ · Ocio y Aficiones/Viajes · El espacio descubre civilizaciones milenarias y viaja por el Nilo en la capital de Egipto. Votos: 1.
+· País: España
+· Productora: New Atlantis.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014742" />
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419135500 +0200" stop="20250419150000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">D Corazón T2</title>
+    <title lang="es">D Corazón T2 E31</title>
     <desc lang="es">2025 | TP | ★6.0/10
- · Entretenimiento/Corazon y sociedad · Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+ · Entretenimiento/Corazon y sociedad · Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 6.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González.</desc>
     <category lang="es">Entretenimiento, Corazon y sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3902302" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014766" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -489,7 +311,7 @@
   <programme start="20250419150000 +0200" stop="20250419154500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">2021 | ★4.0/10
- · Información/Informativo · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2178.
+ · Información/Informativo · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2179.
 · País: España
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
@@ -502,7 +324,7 @@
   <programme start="20250419154500 +0200" stop="20250419155000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Deportes 1</title>
     <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 17.
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 447.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
     <category lang="es">Deportes, Programa deportes</category>
@@ -515,6 +337,7 @@
     <title lang="es">El padre de la novia</title>
     <desc lang="es">1991 | TP | ★6.0/10
  · Cine/Comedia · Georges Banks no puede soportar la idea de que la niña de sus ojos, Annie, que ya tiene 22 años, sea lo suficientemente mayor como para salir con chicos e, incluso, casarse con uno de ellos. Votos: 293.
+· Título original: Father of the Bride
 · País: EE.UU.
 · Dirección: Charles Shyer.
 · Reparto: Steve Martin, Diane Keaton, Kimberly Williams-Paisley, Kieran Culkin, George Newbern.
@@ -522,7 +345,7 @@
 · Música: Alan Silvestri.
 · Productora: Buena Vista Televisión.</desc>
     <category lang="es">Cine, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP171451" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -533,7 +356,8 @@
   <programme start="20250419173000 +0200" stop="20250419191500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Vuelve el padre de la novia (ahora también abuelo)</title>
     <desc lang="es">1995 | TP | ★6.0/10
- · Cine/Comedia · La vida de George es perfecta hasta que le dicen que su hija y su mujer están embarazadas. Votos: 182.
+ · Cine/Comedia · La vida de George es perfecta hasta que le dicen que su hija y su mujer están embarazadas. Votos: 223.
+· Título original: Father of the Bride II
 · País: EE.UU.
 · Dirección: Charles Shyer.
 · Reparto: Steve Martin, Kieran Culkin, Martin Short, Diane Keaton, Eugene Levy, B.D. Wong, George Newbern, Jane Adams, Kimberly Williams-Paisley, Peter Michael Goetz, Vince Lozano, Kimberly Williams.
@@ -542,7 +366,7 @@
 · Producción: Nancy Meyers.
 · Productora: Touchstone Pictures, Sandollar Productions, The Meyers/Shyer Company.</desc>
     <category lang="es">Cine, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP20374" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -552,8 +376,8 @@
   </programme>
   <programme start="20250419191500 +0200" stop="20250419210000 +0200" channel="ES 4k- LA 1">
     <title lang="es">El ruiseñor de las cumbres</title>
-    <desc lang="es">1958 | TP | ★6.0/10
- · Cine/Cine musical · Joselito es un pastorcillo que vive feliz cuidando de sus ovejas en las montañas. De vez en cuando baja al pueblo para ver a sus progenitores, pero su padre nunca está en casa y su madre siempre se inventa excusas para no explicarle dónde se encuentra. Votos: 137.
+    <desc lang="es">1958 | ⑦ | ★6.0/10
+ · Cine/Cine musical · Joselito es un pastorcillo que vive feliz cuidando de sus ovejas en las montañas. De vez en cuando baja al pueblo para ver a sus progenitores, pero su padre nunca está en casa y su madre siempre se inventa excusas para no explicarle dónde se encuentra. Votos: 142.
 · País: España
 · Dirección: Antonio del Amo.
 · Reparto: Joselito, Roberto Camardiel, Dolores Villaespesa, Antonio Casas, Aníbal Vela.
@@ -562,9 +386,9 @@
 · Producción: Cesáreo González.
 · Productora: Argos P.C, Suevia Films.</desc>
     <category lang="es">Cine, Cine musical</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP347557" />
     <rating system="ES">
-      <value>TP</value>
+      <value>7</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
@@ -573,7 +397,7 @@
   <programme start="20250419210000 +0200" stop="20250419212500 +0200" channel="ES 4k- LA 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">2017 | ★4.0/10
- · Información/Informativo · Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2228.
+ · Información/Informativo · Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2229.
 · País: España
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
@@ -586,7 +410,7 @@
   <programme start="20250419212500 +0200" stop="20250419213000 +0200" channel="ES 4k- LA 1">
     <title lang="es">Deportes 2</title>
     <desc lang="es">2025 | ★6.0/10
- · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 21.
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 166.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
     <category lang="es">Deportes, Programa deportes</category>
@@ -596,14 +420,14 @@
     </star-rating>
   </programme>
   <programme start="20250419213000 +0200" stop="20250419220000 +0200" channel="ES 4k- LA 1">
-    <title lang="es">Informe Semanal T24/25</title>
-    <desc lang="es">2024 | ⑦ | ★6.0/10
- · Información/Reportaje · Cuatro reportajes de media hora de la actualidad nacional e internacional. Votos: 11.
+    <title lang="es">Informe Semanal T24/25 E29</title>
+    <desc lang="es">2025 | ⑦ | ★6.0/10
+ · Información/Reportaje · El programa aborda la grave crisis de confianza que, en tiempos de enorme movilidad, acumula entre los usuarios catalanes el sistema de Rodalies. Además, dedica su segundo reportaje a Mario Vargas Llosa, fallecido esta semana. Votos: 27.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP3490413" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4008742" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -630,7 +454,7 @@
   <programme start="20250419220500 +0200" stop="20250419233000 +0200" channel="ES 4k- LA 1">
     <title lang="es">La huida (Deadfall)</title>
     <desc lang="es">2012 | ⑯ | ★6.0/10
- · Cine/Thriller · Los hermanos Addison y Liza se han dado a la fuga tras un golpe fallido en un casino. Pero, tras sufrir un accidente de coche, dejando tras de sí al conductor y a un agente de policía muertos, deciden separarse para llegar hasta la frontera canadiense. Votos: 338.
+ · Cine/Thriller · Los hermanos Addison y Liza se han dado a la fuga tras un golpe fallido en un casino. Pero, tras sufrir un accidente de coche, dejando tras de sí al conductor y a un agente de policía muertos, deciden separarse para llegar hasta la frontera canadiense. Votos: 363.
 · Título original: Dead fall
 · País: EE.UU. y Francia
 · Dirección: Stefan Ruzowitzky.
@@ -1067,8 +891,8 @@
   </programme>
   <programme start="20250421173500 +0200" stop="20250421183500 +0200" channel="ES 4k- LA 1">
     <title lang="es">La Promesa T1 E579</title>
-    <desc lang="es">2025 | ⑫
- · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor.
+    <desc lang="es">2025 | ⑫ | ★10.0/10
+ · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor. Votos: 2.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
@@ -1078,6 +902,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250421183500 +0200" stop="20250421193000 +0200" channel="ES 4k- LA 1">
     <title lang="es">El cazador T9</title>
@@ -1352,8 +1179,8 @@
   </programme>
   <programme start="20250422173500 +0200" stop="20250422183500 +0200" channel="ES 4k- LA 1">
     <title lang="es">La Promesa T1 E580</title>
-    <desc lang="es">2025 | ⑫ | ★8.0/10
- · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor. Votos: 7.
+    <desc lang="es">2025 | ⑫ | ★6.0/10
+ · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor. Votos: 23.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
@@ -1364,7 +1191,7 @@
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250422183500 +0200" stop="20250422193000 +0200" channel="ES 4k- LA 1">
@@ -1635,8 +1462,8 @@
   </programme>
   <programme start="20250423173500 +0200" stop="20250423183500 +0200" channel="ES 4k- LA 1">
     <title lang="es">La Promesa T1 E581</title>
-    <desc lang="es">2025 | ⑫
- · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor.
+    <desc lang="es">2025 | ⑫ | ★6.0/10
+ · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor. Votos: 6.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
@@ -1646,6 +1473,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250423183500 +0200" stop="20250423193000 +0200" channel="ES 4k- LA 1">
     <title lang="es">El cazador T9</title>
@@ -1768,40 +1598,171 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417063000 +0200" stop="20250417064500 +0200" channel="La 2">
-    <title lang="es">That's English T24/25 E117</title>
-    <desc lang="es">2024 | TP | ★6.0/10
- · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 22.
+  <programme start="20250424045000 +0200" stop="20250424060000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">2021 | ★6.0/10
+ · Información/Informativo · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 2446.
+· País: España</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424060000 +0200" stop="20250424075000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">2023 | ★6.0/10
+ · Información/Informativo · Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 679.
 · País: España
-· Dirección: Andrew Morgan.</desc>
-    <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3840432" />
+· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Productora: Televisión Española (TVE).</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424075000 +0200" stop="20250424104000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">2025 | ⑯ | ★6.0/10
+ · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 41.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP3898133" />
     <rating system="ES">
-      <value>TP</value>
+      <value>16</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417064500 +0200" stop="20250417070000 +0200" channel="La 2">
-    <title lang="es">That's English T24/25 E118</title>
-    <desc lang="es">2024 | TP
- · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia.
+  <programme start="20250424104000 +0200" stop="20250424140000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Mañaneros T2</title>
+    <desc lang="es">2024 | ⑯ | ★6.0/10
+ · Entretenimiento/Magacín · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 41.
 · País: España
-· Dirección: Andrew Morgan.</desc>
-    <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3840434" />
+· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
+· Productora: La Cometa TV.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3469793" />
     <rating system="ES">
-      <value>TP</value>
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424140000 +0200" stop="20250424141000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">2023 | ★6.0/10
+ · Información/Informativo · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 469.
+</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP518424" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424141000 +0200" stop="20250424150000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Extra mañaneros T1</title>
+    <desc lang="es">2024 | ⑯ | ★6.0/10
+ · Entretenimiento/Magacín · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 17.
+· País: España
+· Presenta: Adela González, Alberto Herrera.
+· Productora: La Cometa TV.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3517997" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424150000 +0200" stop="20250424154000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">2014 | ★6.0/10
+ · Información/Informativo · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1758.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424154000 +0200" stop="20250424154500 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">2025 | ★6.0/10
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 447.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424154500 +0200" stop="20250424155000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">2023 | ★6.0/10
+ · Información/Informativo · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 86.
+</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424155000 +0200" stop="20250424165000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">La familia de la tele</title>
+    <desc lang="es">2025
+ · Entretenimiento/Magacín · Magacín de tardes presentado por Aitor Albizua, María Patiño e Inés Hernand.
+· País: España
+· Presenta: Aitor Albizua, María Patiño, Inés Hernand.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014737" />
+  </programme>
+  <programme start="20250424165000 +0200" stop="20250424173500 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Valle Salvaje T2</title>
+    <desc lang="es">2024 | ⑯ | ★6.0/10
+ · Series/Telenovela · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 25.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category lang="es">Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3972001" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424173500 +0200" stop="20250424183500 +0200" channel="ES 4k- LA 1">
+    <title lang="es">La Promesa T1 E582</title>
+    <desc lang="es">2025 | ⑫
+ · Series/Drama · En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+    <category lang="es">Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4014786" />
+    <rating system="ES">
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20250417070000 +0200" stop="20250417072500 +0200" channel="La 2">
-    <title lang="es">Inglés Online T24/25 E119</title>
+  <programme start="20250424183500 +0200" stop="20250424193200 +0200" channel="ES 4k- LA 1">
+    <title lang="es">El cazador T9</title>
     <desc lang="es">2025 | TP | ★10.0/10
- · Cultural/Educativo/Idiomas · Curso de inglés de Televisión Española para hisponoparlantes. Votos: 1.
-· País: España</desc>
-    <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015074" />
+ · Entretenimiento/Concurso · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'. Votos: 1.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+    <category lang="es">Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3936296" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -1809,14 +1770,15 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417072500 +0200" stop="20250417080000 +0200" channel="La 2">
-    <title lang="es">Zoom tendencias</title>
-    <desc lang="es">2017 | TP | ★6.0/10
- · Ocio y Aficiones/Ocio y cultura · Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa. Votos: 200.
+  <programme start="20250424193200 +0200" stop="20250424203000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">El cazador</title>
+    <desc lang="es">2022 | TP | ★6.0/10
+ · Entretenimiento/Concurso · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'. Votos: 44.
 · País: España
-· Dirección: Mercedes Cámara.</desc>
-    <category lang="es">Ocio y Aficiones, Ocio y cultura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P799936" />
+· Presenta: Rodrigo Vázquez.
+· Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
+    <category lang="es">Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2070065" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -1824,14 +1786,14 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417080000 +0200" stop="20250417083000 +0200" channel="La 2">
-    <title lang="es">Zoom tendencias</title>
-    <desc lang="es">2017 | TP | ★6.0/10
- · Ocio y Aficiones/Ocio y cultura · Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa. Votos: 200.
+  <programme start="20250424203000 +0200" stop="20250424210000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Entretenimiento/Magacín · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 84.
 · País: España
-· Dirección: Mercedes Cámara.</desc>
-    <category lang="es">Ocio y Aficiones, Ocio y cultura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P799936" />
+· Presenta: Jacob Petrus.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3492540" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -1839,487 +1801,110 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417083000 +0200" stop="20250417092000 +0200" channel="La 2">
-    <title lang="es">Planeta en peligro II E1</title>
-    <desc lang="es">2023 | TP | ★6.0/10
- · Documentales/Naturaleza · A un paso de la segunda placa de hielo más grande del mundo, un rincón del noreste de Groenlandia se ha convertido en uno de los lugares más importantes para monitorizar nuestro planeta. En California, los bosques se encuentran más amenazados que nunca. Votos: 28.
-· País: EE.UU. y R.U.
-· Dirección: Richard Max, Laura Flegg, Olive King.
-· Productora: BBC Studios.</desc>
-    <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3042206" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417092000 +0200" stop="20250417095000 +0200" channel="La 2">
-    <title lang="es">Pueblo de Dios</title>
-    <desc lang="es">1982 | TP | ★6.0/10
- · Cultural/Educativo/Religión · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica. Votos: 109.
+  <programme start="20250424210000 +0200" stop="20250424213500 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">2021 | ★6.0/10
+ · Información/Informativo · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1413.
 · País: España
-· Dirección: Julián Del Olmo.
+· Presenta: Marta Carazo, Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1727415" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417095000 +0200" stop="20250417102000 +0200" channel="La 2">
-    <title lang="es">Carlos V: Los caminos del Emperador</title>
-    <desc lang="es">Por las tierras de Castilla | 2019 | TP | ★6.0/10
- · Documentales/Historia · Tras su abdicación, Carlos V encuentra un lugar perfecto para su retiro: el Monasterio de Yuste. Después de desembarcar en Laredo, emprende un tortuoso viaje atravesando duros caminos y puertos de montaña. Su salud se resiente. Votos: 10.
+  <programme start="20250424213500 +0200" stop="20250424214000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">2025 | ★6.0/10
+ · Deportes/Programa deportes · Actualidad deportiva diaria nacional e internacional. Votos: 166.
 · País: España
-· Dirección: Juan Frutos.
-· Productora: Radio Televisión Española (RTVE), Canal Extremadura TV, Orange Productions.</desc>
-    <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1632189" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417102000 +0200" stop="20250417111000 +0200" channel="La 2">
-    <title lang="es">Tribus viajeras T1</title>
-    <desc lang="es">Moteros en el desierto de Marruecos | 2017 | ⑦ | ★8.0/10
- · Ocio y Aficiones/Viajes · Francine y el equipo viaja a Marruecos, la puerta de África, para acompañar a la tribu motera en el desarrollo de un rali por el desierto simulando una etapa del legendario rali París Dakar. Votos: 29.
+  <programme start="20250424214000 +0200" stop="20250424225000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">La revuelta T1</title>
+    <desc lang="es">2024 | ⑫ | ★8.0/10
+ · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 42.
 · País: España
-· Presenta: Francine Gálvez.</desc>
-    <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1526693" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417111000 +0200" stop="20250417114000 +0200" channel="La 2">
-    <title lang="es">Viajar en tren: Países Bajos: Zwolle-Zutphen</title>
-    <desc lang="es">2021 | TP | ★6.0/10
- · Documentales/Viajes · En este episodio recorreremos el blanco paisaje que sigue el cauce del río IJssel. Votos: 14.
-· Título original: Rail Away: Nederland: Zwolle-Deventer-Zutphen
-· País: Países Bajos
-· Productora: EO International, Meskers Media Affairs B.V.</desc>
-    <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2164086" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417114000 +0200" stop="20250417122000 +0200" channel="La 2">
-    <title lang="es">África extrema: Los secarrales del sur</title>
-    <desc lang="es">2017 | TP | ★6.0/10
- · Documentales/Naturaleza · Namibia alberga uno de los entornos más áridos del planeta, los "Secarrales del sur". Votos: 28.
-</desc>
-    <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1386762" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417122000 +0200" stop="20250417135500 +0200" channel="La 2">
-    <title lang="es">Cuatro pistoleros de Santa Trinidad</title>
-    <desc lang="es">1971 | ⑫ | ★6.0/10
- · Cine/Oeste · Quinn y Gómez se dedican al tráfico de armas con los indios y a intentar obtener los papales de propiedad de una mina de oro. Pero sus planes se complicarán con la llegada del sheriff Thomas y el reportero George. Votos: 38.
-· Título original: I quattro pistoleri di Santa Trinità
-· País: Italia
-· Dirección: Giorgio Cristallini.
-· Reparto: Raf Baldassarre, Valeria Fabrizi, Peter Lee Lawrence, Ida Galli, Daniela Giordano.
-· Guion: Giorgio Cristallini.
-· Música: Roberto Pregadio.
-· Producción: Umberto Russo.
-· Productora: Buton Film.</desc>
-    <category lang="es">Cine, Oeste</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1314627" />
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <category lang="es">Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3481331" />
     <rating system="ES">
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417135500 +0200" stop="20250417142100 +0200" channel="La 2">
-    <title lang="es">De la tierra T1</title>
-    <desc lang="es">Otoño | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · En este episodio, Maeve O'Meara investiga los sabores maduros del otoño en distintas aventuras culinarias por las cocinas del mundo. Votos: 29.
-· Título original: Food Safari Earth (T1): Autumn
-· País: Australia</desc>
-    <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492985" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417142100 +0200" stop="20250417144500 +0200" channel="La 2">
-    <title lang="es">De la tierra T1</title>
-    <desc lang="es">Dulce y amargo | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · El programa explora la frescura de la combinación de sabores agridulces en una variedad de cocinas. Votos: 29.
-· Título original: Food Safari Earth (T1): Sweet &amp; Sour
-· País: Australia</desc>
-    <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492986" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417144500 +0200" stop="20250417153500 +0200" channel="La 2">
-    <title lang="es">El chef del mar: Estrecho de Gibraltar / Costa de la luz</title>
-    <desc lang="es">2015 | TP | ★6.0/10
- · Documentales/Gastronomía · Ángel León sigue la ruta del atún por la provincia de Cádiz. Votos: 9.
-· País: España
-· Presenta: Ángel León.
-· Productora: Medina Media.</desc>
-    <category lang="es">Documentales, Gastronomía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1221212" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417153500 +0200" stop="20250417162500 +0200" channel="La 2">
-    <title lang="es">Saber y ganar T2025 E77</title>
-    <desc lang="es">2025 | TP
- · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí.
-· País: España
-· Presenta: Jordi Hurtado.
-· Dirección: Sergi Schaaff.
-· Productora: Quart.</desc>
-    <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015080" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250417162500 +0200" stop="20250417171400 +0200" channel="La 2">
-    <title lang="es">Delfines salvajes</title>
-    <desc lang="es">2017 | TP | ★6.0/10
- · Documentales/Naturaleza · En las aguas de Nueva Zelanda viven algunos de los delfines más decididos, atléticos y carismáticos que existen. Los delfines mulares tienen que surcar las aguas heladas de Fiordland para conseguir que sus crías sobrevivan. Votos: 90.
-· Título original: Wild Dolphins
-· País: Nueva Zelanda</desc>
-    <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1413561" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417171400 +0200" stop="20250417180000 +0200" channel="La 2">
-    <title lang="es">Jaguar, el rey de la jungla</title>
-    <desc lang="es">2020 | TP
- · Documentales/Naturaleza · El jaguar es el tercer felino más grande del planeta, y kilo a kilo es el más poderoso de todos. Nómada por naturaleza, patrulla un territorio de más de cien kilómetros cuadrados. Su hogar está en lo profundo del corazón del pantanal de Brasil.
-· Título original: Jaguar: King of the Jungle
-· País: EE.UU.
-· Dirección: Phil Coles.</desc>
-    <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015038" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250417180000 +0200" stop="20250417185500 +0200" channel="La 2">
-    <title lang="es">Julio César: El ascenso del Imperio romano</title>
-    <desc lang="es">Idus de marzo | 2023 | ⑦ | ★6.0/10
- · Documentales/Historia · A medida que Julio César toma el control de Roma y consolida su dominio sobre la república, se otorga poderes cada vez mayores. Nombrado dictador por un año para restaurar la paz, pronto lo extiende a diez años y luego se acaba convirtiendo en vitalicio. Votos: 39.
-· Título original: Julius Caesar: The...: Ides of march
-· País: R.U.
-· Productora: BBC Studios.</desc>
-    <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4168380" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417185500 +0200" stop="20250417190000 +0200" channel="La 2">
-    <title lang="es">Santos Oficios T2025</title>
-    <desc lang="es">Triduo Pascual | 2025 | ★8.0/10
- · Cultural/Educativo/Religión · Las cámaras son testigos de la celebración de los Santos Oficios de Semana Santa desde la ciudad madrileña de Getafe. Votos: 1.
-· Título original: Santos oficios (T2025): Triduo Pascual (Jueves Santo)
-· País: España</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4013999" />
-    <star-rating system="ES">
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417190000 +0200" stop="20250417201500 +0200" channel="La 2">
-    <title lang="es">Semana Santa en RTVE T2025</title>
-    <desc lang="es">Celebración de la Misa de la Cena del Señor | 2025 | TP | ★8.0/10
- · Cultural/Educativo/Religión · Celebración de la tradicional Misa de la Cena del Señor del Jueves Santo desde la Catedral de Santa María de Astorga. El acto está presidido por Jesús Fernández González, obispo de Astorga. Votos: 3.
-· País: España</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4009894" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
+  <programme start="20250424225000 +0200" stop="20250425004500 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250417201500 +0200" stop="20250417230000 +0200" channel="La 2">
-    <title lang="es">Semana Santa en RTVE T2025</title>
-    <desc lang="es">Procesión del Silencio | 2025 | ★8.0/10
- · Cultural/Educativo/Religión · Desde la parroquia de San Bartolomé de Astorga, retransmisión en directo de la Procesión del Silencio. Una ceremonia religiosa que conmemora la pasión y muerte de Cristo. Votos: 3.
-· País: España</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4009896" />
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
+  <programme start="20250425004500 +0200" stop="20250425021000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250417230000 +0200" stop="20250417234800 +0200" channel="La 2">
-    <title lang="es">Pasión y gloria T1 E1</title>
-    <desc lang="es">2025 | TP | ★6.0/10
- · Cultural/Educativo/Religión · En San Vicente de Sonsierra, "Los Picaos" revelan los secretos de su penitencia. En Sevilla, una familia de cereros relata su historia de devoción. En Murcia, bocinas y vestimentas huertanas dan color a la celebración. Votos: 18.
+  <programme start="20250425021000 +0200" stop="20250425044000 +0200" channel="ES 4k- LA 1">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">2024 | ★6.0/10
+ · Información/Informativo · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 152.
 · País: España
-· Presenta: Antonio Garrido.
-· Dirección: Vanesa Benítez Zamora.
-· Productora: Radio Televisión Española (RTVE).</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4009884" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417234800 +0200" stop="20250418003500 +0200" channel="La 2">
-    <title lang="es">Pasión y gloria T1 E2</title>
-    <desc lang="es">2025 | TP | ★6.0/10
- · Cultural/Educativo/Religión · En primavera, Lorca vive la rivalidad entre Paso Blanco y Paso Azul con una espectacular puesta en escena. En Cataluña destacan la macabra Danza de la Muerte de Verges y las artesanas monas de Pascua. Votos: 2.
-· País: España
-· Presenta: Antonio Garrido.
-· Dirección: Vanesa Benítez Zamora.
-· Productora: Radio Televisión Española (RTVE).</desc>
-    <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4009886" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418003500 +0200" stop="20250418012600 +0200" channel="La 2">
-    <title lang="es">Julio César: El ascenso del Imperio romano</title>
-    <desc lang="es">Sumo sacerdote | 2023 | ⑦ | ★6.0/10
- · Documentales/Historia · Julio César busca convertirse en cónsul, el puesto político más alto de Roma. Para ello, firma alianzas peligrosas y vulnera las reglas de la república, ganándose el voto popular y utilizando el soborno y la intimidación para salirse con la suya. Votos: 37.
-· Título original: Julius Caesar: The...: High priest
-· País: R.U.
-· Productora: BBC Studios.</desc>
-    <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4168366" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418012600 +0200" stop="20250418022000 +0200" channel="La 2">
-    <title lang="es">Julio César: El ascenso del Imperio romano</title>
-    <desc lang="es">Veni, vidi, vici | 2023 | ⑦ | ★6.0/10
- · Documentales/Historia · Julio César ha negociado una alianza con los otros dos hombres más poderosos de la república: Pompeyo y Craso. Entre ambos dominan el sistema político y César parece intocable. Decide dejar Roma para asumir el cargo de gobernador de la Galia. Votos: 19.
-· País: R.U.
-· Productora: BBC Studios.</desc>
-    <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4168371" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418022000 +0200" stop="20250418025000 +0200" channel="La 2">
-    <title lang="es">Conciertos de Radio-3 T24/25</title>
-    <desc lang="es">2024 | ⑦ | ★6.0/10
- · Música/Concierto · Programa musical que recoge la actuación en directo de algún cantante o grupo. Votos: 12.
-· País: España
-· Dirección: Tomás Fernando Flores.</desc>
-    <category lang="es">Música, Concierto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3509477" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418025000 +0200" stop="20250418031600 +0200" channel="La 2">
-    <title lang="es">De la tierra: Nuevas técnicas T1</title>
-    <desc lang="es">Rellenos, envueltos y enrollados | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · Maeve explora la asombrosa versatilidad de las cocinas para conseguir resultados increíbles con los ingredientes más humildes utilizando la técnica de rellenar vegetales. Prueba unos chiles rellenos de queso y unos dumplings de acelgas y espinacas. Votos: 42.
-· Título original: Food Safari Earth (T1): Stuffed, rolled &amp; wrapped
-· País: Australia</desc>
-    <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492983" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418031600 +0200" stop="20250418034000 +0200" channel="La 2">
-    <title lang="es">De la tierra: Frutas y verduras trópicales T1</title>
-    <desc lang="es">Frutas tropicales y exóticas | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · Maeve visita al maestro de la cocina tailandesa, David Thompson, quien comparte su receta de salteado tailandés de fideos al wok; el chef nacido en Colombia, Oscar Espinosa, transforma el plátano verde en chips crujientes servidos con guacamole. Votos: 36.
-· Título original: Food Safari Earth (T1): Tropic &amp; Exotic
-· País: Australia</desc>
-    <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492984" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418034000 +0200" stop="20250418043000 +0200" channel="La 2">
-    <title lang="es">El chef del mar</title>
-    <desc lang="es">2015 | TP | ★6.0/10
- · Documentales/Caza y pesca · Ángel León es un enamorado del lenguaje marinero, un incansable estudioso del mar y un curioso que vive experimentando comportamientos y reacciones de materias primas a las que intenta sacar resultados no estudiados hasta ahora. Votos: 109.
-· País: España
-· Dirección: Ángel León.</desc>
-    <category lang="es">Documentales, Caza y pesca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1487258" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418043000 +0200" stop="20250418052000 +0200" channel="La 2">
-    <title lang="es">Pequeños viajes animales</title>
-    <desc lang="es">2023 | TP | ★6.0/10
- · Documentales/Naturaleza · Seis pequeños animales, como el tití, el camaleón o el pangolín, tienen que superar grandes obstáculos para sobrevivir. Este documental de BBC Earth captura todas las aventuras a las que tienen que enfrentarse estas diminutas pero poderosas criaturas. Votos: 27.
-· País: R.U.
-· Dirección: Paul Williams (Productor).
-· Producción: Paul Williams (Productor).
-· Productora: BBC Studios.</desc>
-    <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4144543" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418052000 +0200" stop="20250418055000 +0200" channel="La 2">
-    <title lang="es">Carlos V: Los caminos del Emperador</title>
-    <desc lang="es">2019 | TP | ★6.0/10
- · Documentales/Historia · Un recorrido por los constantes viajes que realizó el Emperador Carlos V a través de Alemania, Suiza, Holanda, Bélgica, Perú, Colombia, Italia o Austria. Votos: 12.
-· País: España
-· Dirección: Juan Frutos.
-· Productora: Radio Televisión Española (RTVE), Canal Extremadura TV, Orange Productions.</desc>
-    <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1625958" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418055000 +0200" stop="20250418060000 +0200" channel="La 2">
-    <title lang="es">La 2 express</title>
-    <desc lang="es">2019 | ★6.0/10
- · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 109.
-· País: España</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1895343" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418060000 +0200" stop="20250418063000 +0200" channel="La 2">
-    <title lang="es">En lengua de signos</title>
-    <desc lang="es">2024 | TP | ★6.0/10
- · Información/Informativo · Paloma Soroa es la encargada de conducir este espacio semanal de noticias y reportajes. Votos: 15.
-· País: España
-· Dirección: Lola Hernández.</desc>
+· Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3227235" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP3484330" />
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250418063000 +0200" stop="20250418064500 +0200" channel="La 2">
-    <title lang="es">That's English T24/25</title>
-    <desc lang="es">2024 | TP | ★6.0/10
- · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 9.
+    <title lang="es">That's English T24/25 E153</title>
+    <desc lang="es">2024 | TP | ★10.0/10
+ · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 1.
 · País: España
 · Dirección: Andrew Morgan.</desc>
     <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517644" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3842355" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>10.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250418064500 +0200" stop="20250418070000 +0200" channel="La 2">
-    <title lang="es">That's English T24/25</title>
-    <desc lang="es">2024 | TP | ★6.0/10
- · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 9.
+    <title lang="es">That's English T24/25 E154</title>
+    <desc lang="es">2024 | TP
+ · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia.
 · País: España
 · Dirección: Andrew Morgan.</desc>
     <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517644" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3842357" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250418070000 +0200" stop="20250418072500 +0200" channel="La 2">
-    <title lang="es">Inglés Online T24/25</title>
-    <desc lang="es">2024 | TP | ★6.0/10
- · Cultural/Educativo/Idiomas · Curso de inglés de Televisión Española para hisponoparlantes. Votos: 11.
+    <title lang="es">Inglés Online T24/25 E120</title>
+    <desc lang="es">2025 | TP | ★8.0/10
+ · Cultural/Educativo/Idiomas · Curso de inglés de Televisión Española para hisponoparlantes. Votos: 1.
 · País: España</desc>
     <category lang="es">Cultural/Educativo, Idiomas</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517642" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015076" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250418072500 +0200" stop="20250418074500 +0200" channel="La 2">
@@ -2356,8 +1941,8 @@
   </programme>
   <programme start="20250418082000 +0200" stop="20250418091000 +0200" channel="La 2">
     <title lang="es">Planeta en peligro II E2</title>
-    <desc lang="es">2023 | TP | ★6.0/10
- · Documentales/Naturaleza · El Pantanal es el humedal más extenso del planeta. Se extiende por tres países, y es un ecosistema mágico. En Camboya, el crecimiento económico ha provocado una creciente demanda de recursos naturales. Y sus ríos están pagando las consecuencias. Votos: 21.
+    <desc lang="es">Planeta en perill II | 2023 | TP | ★6.0/10
+ · Documentales/Naturaleza · El Pantanal es el humedal más extenso del planeta. Se extiende por tres países, y es un ecosistema mágico. En Camboya, el crecimiento económico ha provocado una creciente demanda de recursos naturales. Y sus ríos están pagando las consecuencias. Votos: 23.
 · País: EE.UU. y R.U.
 · Dirección: Richard Max, Laura Flegg, Olive King.
 · Productora: BBC Studios.</desc>
@@ -2376,7 +1961,7 @@
  · Documentales/Viajes · Según Alexander Von Humboldt, la localidad alemana Passau, punto de partida de nuestro viaje, es una de las siete ciudades más bellas del mundo. Desde aquí seguiremos el Sendero del Oro para adentrarnos en el Bosque Bávaro. Votos: 5.
 · País: España</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1753096" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2387,10 +1972,12 @@
   <programme start="20250418094500 +0200" stop="20250418102000 +0200" channel="La 2">
     <title lang="es">Carlos V: Los caminos del Emperador</title>
     <desc lang="es">El último viaje | 2019 | TP | ★6.0/10
- · Documentales/Historia · Carlos V penetra en la actual Extremadura tres meses después de su partida. Votos: 12.
-</desc>
+ · Documentales/Historia · Carlos V penetra en la actual Extremadura tres meses después de su partida. Votos: 13.
+· País: España
+· Dirección: Juan Frutos.
+· Productora: Radio Televisión Española (RTVE), Canal Extremadura TV, Orange Productions.</desc>
     <category lang="es">Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1634347" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2400,22 +1987,23 @@
   </programme>
   <programme start="20250418102000 +0200" stop="20250418111000 +0200" channel="La 2">
     <title lang="es">Tribus viajeras T1</title>
-    <desc lang="es">Ruta taurina por Madrid | 2017 | ⑦ | ★6.0/10
- · Ocio y Aficiones/Viajes · Ahora que la sociedad parece dividirse entre defensores y detractores de los toros, Francine y el equipo han querido sumarse a la Tribu Taurina: un grupo de amantes de la tauromaquia que tratan de expresar su pasión por este arte tradicional. Votos: 33.
-</desc>
+    <desc lang="es">Ruta taurina por Madrid | 2017 | ⑦ | ★8.0/10
+ · Ocio y Aficiones/Viajes · Ahora que la sociedad parece dividirse entre defensores y detractores de los toros, Francine y el equipo han querido sumarse a la Tribu Taurina: un grupo de amantes de la tauromaquia que tratan de expresar su pasión por este arte tradicional. Votos: 36.
+· País: España
+· Presenta: Francine Gálvez.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1528677" />
     <rating system="ES">
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250418111000 +0200" stop="20250418114000 +0200" channel="La 2">
     <title lang="es">El escarabajo verde: Animales de primera y de segunda</title>
     <desc lang="es">2025 | TP | ★6.0/10
- · Documentales/Naturaleza · Estamos asistiendo al declive de muchas especies que hace años eran comunes. ¿Habrá suficiente dinero para conservar todas las especies o habrá que escoger? ¿Bajo qué criterios?. Votos: 7.
+ · Documentales/Naturaleza · Estamos asistiendo al declive de muchas especies que hace años eran comunes. ¿Habrá suficiente dinero para conservar todas las especies o habrá que escoger? ¿Bajo qué criterios?. Votos: 8.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Documentales, Naturaleza</category>
@@ -2430,7 +2018,7 @@
   <programme start="20250418114000 +0200" stop="20250418122500 +0200" channel="La 2">
     <title lang="es">África extrema: Etosha-El gran lugar blanco</title>
     <desc lang="es">2017 | TP | ★6.0/10
- · Documentales/Naturaleza · Documental sobre Michael Fay, que documenta la riqueza biológica de una selva íntegra. Votos: 3.
+ · Documentales/Naturaleza · Documental sobre Michael Fay, que documenta la riqueza biológica de una selva íntegra. Votos: 4.
 </desc>
     <category lang="es">Documentales, Naturaleza</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1387059" />
@@ -2443,8 +2031,9 @@
   </programme>
   <programme start="20250418122500 +0200" stop="20250418135500 +0200" channel="La 2">
     <title lang="es">Un hombre llamado Noon</title>
-    <desc lang="es">1973 | ⑯ | ★6.0/10
+    <desc lang="es">1973 | ⑫ | ★6.0/10
  · Cine/Oeste · Un hombre busca su identidad tras ser tiroteado y herido en la cabeza, perdiendo así la memoria. Votos: 128.
+· Título original: The Man Called Noon
 · País: España, Italia y R.U.
 · Dirección: Peter Collison, Peter Collinson.
 · Reparto: Richard Crenna, Stephen Boyd, Rosanna Schiaffino, Ángel del Pozo, Patty Shepard, Farley Granger, Aldo Sambrell, Howard Ross, Charly Bravo, Antonio Recoder.
@@ -2453,9 +2042,9 @@
 · Producción: Euan Lloyd.
 · Productora: Films Montana, Finarco, Frontier Film Productions.</desc>
     <category lang="es">Cine, Oeste</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P953670" />
     <rating system="ES">
-      <value>16</value>
+      <value>12</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
@@ -2464,10 +2053,11 @@
   <programme start="20250418135500 +0200" stop="20250418142100 +0200" channel="La 2">
     <title lang="es">De la tierra T1</title>
     <desc lang="es">Conservas y fermentados | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · Filmada a lo largo de las cuatro estaciones en granjas y jardines de Australia, el espacio muestra platos vegetarianos clásicos e ingredientes de recetas antiguas transmitidos a través de las generaciones, así como nuevas combinaciones y técnicas. Votos: 45.
-</desc>
+ · Ocio y Aficiones/Cocina · Filmada a lo largo de las cuatro estaciones en granjas y jardines de Australia, el espacio muestra platos vegetarianos clásicos e ingredientes de recetas antiguas transmitidos a través de las generaciones, así como nuevas combinaciones y técnicas. Votos: 46.
+· Título original: Food Safari Earth (T1): Preserving &amp; Fermenting
+· País: Australia</desc>
     <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492987" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2478,10 +2068,11 @@
   <programme start="20250418142100 +0200" stop="20250418145000 +0200" channel="La 2">
     <title lang="es">De la tierra T1</title>
     <desc lang="es">Invierno | 2017 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · Filmada a lo largo de las cuatro estaciones en granjas y jardines de Australia, el espacio muestra platos vegetarianos clásicos e ingredientes de recetas antiguas transmitidos a través de las generaciones, así como nuevas combinaciones y técnicas. Votos: 30.
-</desc>
+ · Ocio y Aficiones/Cocina · Filmada a lo largo de las cuatro estaciones en granjas y jardines de Australia, el espacio muestra platos vegetarianos clásicos e ingredientes de recetas antiguas transmitidos a través de las generaciones, así como nuevas combinaciones y técnicas. Votos: 33.
+· Título original: Food Safari Earth (T1): Winter
+· País: Australia</desc>
     <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1493069" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2497,7 +2088,7 @@
 · Presenta: Ángel León.
 · Productora: Medina Media.</desc>
     <category lang="es">Documentales, Gastronomía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1221326" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2506,31 +2097,33 @@
     </star-rating>
   </programme>
   <programme start="20250418154000 +0200" stop="20250418162500 +0200" channel="La 2">
-    <title lang="es">Saber y ganar T2025</title>
-    <desc lang="es">2025 | TP | ★6.0/10
- · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí. Votos: 16.
+    <title lang="es">Saber y ganar T2025 E78</title>
+    <desc lang="es">2025 | TP | ★10.0/10
+ · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí. Votos: 2.
 · País: España
 · Presenta: Jordi Hurtado.
 · Dirección: Sergi Schaaff.
 · Productora: Quart.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3900195" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015082" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>10.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250418162500 +0200" stop="20250418165500 +0200" channel="La 2">
     <title lang="es">La carrera por la vida: La carrera a ras de suelo: La mantis</title>
-    <desc lang="es">2015 | ⑫ | ★6.0/10
- · Documentales/Naturaleza · En este episodio analizamos la carrera por la vida a una pequeña escala, que no por pequeña es menos competitiva ni menos cruel. Los insectos reptan por el suelo, saltan y cantan en los árboles y zumban y bailan por el aire. Votos: 29.
-</desc>
+    <desc lang="es">2015 | TP | ★6.0/10
+ · Documentales/Naturaleza · En este episodio analizamos la carrera por la vida a una pequeña escala, que no por pequeña es menos competitiva ni menos cruel. Los insectos reptan por el suelo, saltan y cantan en los árboles y zumban y bailan por el aire. Votos: 30.
+· Título original: Race of Life: The Race Underfoot
+· País: EE.UU. y República Checa
+· Dirección: Max Serio, Bettina Dalton.</desc>
     <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1283752" />
     <rating system="ES">
-      <value>12</value>
+      <value>TP</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
@@ -2540,9 +2133,9 @@
     <title lang="es">Santos Oficios T2025</title>
     <desc lang="es">Triduo Pascual (Viernes Santo) | 2025
  · Cultural/Educativo/Religión · Las cámaras son testigos de la celebración de los Santos Oficios de Semana Santa desde la ciudad madrileña de Getafe.
-</desc>
+· País: España</desc>
     <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015058" />
   </programme>
   <programme start="20250418170000 +0200" stop="20250418181500 +0200" channel="La 2">
     <title lang="es">Semana Santa en RTVE T2025</title>
@@ -2573,14 +2166,14 @@
     <title lang="es">Semana Santa en RTVE T2025</title>
     <desc lang="es">Vía Crucis desde el Coliseo | 2025
  · Cultural/Educativo/Religión · Emisión del tradicional Vía Crucis desde el Coliseo de Roma. Una oración que recuerda los últimos momentos de la Pasión de Cristo y que recorre el Coliseo hasta el Templo de Venus.
-</desc>
+· País: España</desc>
     <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015062" />
   </programme>
   <programme start="20250418223000 +0200" stop="20250418231900 +0200" channel="La 2">
     <title lang="es">Pasión y gloria T1 E3</title>
     <desc lang="es">2025 | TP | ★6.0/10
- · Cultural/Educativo/Religión · En Valverde de la Vera, el Empalao recrea la pasión de Cristo. Seguimos a dos restauradoras de arte sacro. En Viveiro, la Semana Santa medieval se celebra con figuras articuladas. En Navaluenga, los Romanceros recitan versos de Lope de Vega. Votos: 5.
+ · Cultural/Educativo/Religión · En Valverde de la Vera, el Empalao recrea la pasión de Cristo. Seguimos a dos restauradoras de arte sacro. En Viveiro, la Semana Santa medieval se celebra con figuras articuladas. En Navaluenga, los Romanceros recitan versos de Lope de Vega. Votos: 7.
 · País: España
 · Presenta: Antonio Garrido.
 · Dirección: Vanesa Benítez Zamora.
@@ -2631,7 +2224,7 @@
   <programme start="20250419005500 +0200" stop="20250419015000 +0200" channel="La 2">
     <title lang="es">Julio César: El ascenso del Imperio romano</title>
     <desc lang="es">Idus de marzo | 2023 | ⑦ | ★6.0/10
- · Documentales/Historia · A medida que Julio César toma el control de Roma y consolida su dominio sobre la república, se otorga poderes cada vez mayores. Nombrado dictador por un año para restaurar la paz, pronto lo extiende a diez años y luego se acaba convirtiendo en vitalicio. Votos: 21.
+ · Documentales/Historia · A medida que Julio César toma el control de Roma y consolida su dominio sobre la república, se otorga poderes cada vez mayores. Nombrado dictador por un año para restaurar la paz, pronto lo extiende a diez años y luego se acaba convirtiendo en vitalicio. Votos: 66.
 · Título original: Julius Caesar: The...: Ides of march
 · País: R.U.
 · Productora: BBC Studios.</desc>
@@ -2646,22 +2239,26 @@
   </programme>
   <programme start="20250419015000 +0200" stop="20250419030000 +0200" channel="La 2">
     <title lang="es">Las noches del Monumental T24/25</title>
-    <desc lang="es">Ochenteros en Madrid. Esteban Barranquero | 2025 | TP
- · Música/Concierto · Emisión de conciertos en vivo de música clásica, jazz, flamenco y copla, entre otros géneros, desde el Teatro Monumental, con grupos de la Orquesta y Coro RTVE y artistas de reconocido prestigio.
-</desc>
+    <desc lang="es">Ochenteros en Madrid. Esteban Barranquero | 2025 | TP | ★10.0/10
+ · Música/Concierto · Emisión de conciertos en vivo de música clásica, jazz, flamenco y copla, entre otros géneros, desde el Teatro Monumental, con grupos de la Orquesta y Coro RTVE y artistas de reconocido prestigio. Votos: 1.
+· País: España</desc>
     <category lang="es">Música, Concierto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015109" />
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419030000 +0200" stop="20250419032600 +0200" channel="La 2">
     <title lang="es">De la tierra T1</title>
     <desc lang="es">Otoño | 2017 | TP | ★6.0/10
  · Ocio y Aficiones/Cocina · En este episodio, Maeve O'Meara investiga los sabores maduros del otoño en distintas aventuras culinarias por las cocinas del mundo. Votos: 29.
-</desc>
+· Título original: Food Safari Earth (T1): Autumn
+· País: Australia</desc>
     <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492985" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2673,9 +2270,10 @@
     <title lang="es">De la tierra T1</title>
     <desc lang="es">Dulce y amargo | 2017 | TP | ★6.0/10
  · Ocio y Aficiones/Cocina · El programa explora la frescura de la combinación de sabores agridulces en una variedad de cocinas. Votos: 29.
-</desc>
+· Título original: Food Safari Earth (T1): Sweet &amp; Sour
+· País: Australia</desc>
     <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1492986" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2691,7 +2289,7 @@
 · Presenta: Ángel León.
 · Productora: Medina Media.</desc>
     <category lang="es">Documentales, Gastronomía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1221212" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2702,7 +2300,7 @@
   <programme start="20250419044000 +0200" stop="20250419053000 +0200" channel="La 2">
     <title lang="es">Delfines salvajes</title>
     <desc lang="es">2017 | TP | ★6.0/10
- · Documentales/Naturaleza · En las aguas de Nueva Zelanda viven algunos de los delfines más decididos, atléticos y carismáticos que existen. Los delfines mulares tienen que surcar las aguas heladas de Fiordland para conseguir que sus crías sobrevivan. Votos: 74.
+ · Documentales/Naturaleza · En las aguas de Nueva Zelanda viven algunos de los delfines más decididos, atléticos y carismáticos que existen. Los delfines mulares tienen que surcar las aguas heladas de Fiordland para conseguir que sus crías sobrevivan. Votos: 114.
 · Título original: Wild Dolphins
 · País: Nueva Zelanda</desc>
     <category lang="es">Documentales, Naturaleza</category>
@@ -2733,7 +2331,7 @@
   <programme start="20250419060000 +0200" stop="20250419061000 +0200" channel="La 2">
     <title lang="es">La 2 express</title>
     <desc lang="es">2019 | ★6.0/10
- · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 110.
+ · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 111.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1895343" />
@@ -2774,7 +2372,7 @@
   <programme start="20250419074500 +0200" stop="20250419080000 +0200" channel="La 2">
     <title lang="es">La 2 express</title>
     <desc lang="es">2019 | ★6.0/10
- · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 110.
+ · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 111.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1895343" />
@@ -2790,7 +2388,7 @@
 · Dirección: Arturo Morales.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Música, Música clásica</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3496761" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015115" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2843,9 +2441,10 @@
     <title lang="es">Tribus viajeras T1</title>
     <desc lang="es">Maratón En Nueva York | 2017 | ⑦ | ★6.0/10
  · Ocio y Aficiones/Viajes · En esta ocasión, Francine y el equipo viajan a Nueva York, la ciudad que nunca duerme, para acompañar a la Tribu Runner en su participación en el famoso maratón que cada año paraliza la ciudad. Votos: 5.
-</desc>
+· País: España
+· Presenta: Francine Gálvez.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1519268" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1530951" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -2857,23 +2456,29 @@
     <title lang="es">Comando Actualidad T23/24</title>
     <desc lang="es">Turismo al límite | 2024 | ⑦
  · Información/Reportaje · España espera recibir 91 millones de turistas este año y batir su propia marca.
-</desc>
+· País: España
+· Dirección: Silvia Sánchez.
+· Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Reportaje</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3402749" />
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
   <programme start="20250419122500 +0200" stop="20250419125500 +0200" channel="La 2">
     <title lang="es">Página 2 T20</title>
-    <desc lang="es">Especial Día del Libro | 2025 | TP
- · Cultural/Educativo/Literatura · Especial en el día del libro, dedicado a la Comunidad Valenciana.
+    <desc lang="es">Especial Día del Libro | 2025 | TP | ★8.0/10
+ · Cultural/Educativo/Literatura · Especial en el día del libro, dedicado a la Comunidad Valenciana. Votos: 1.
 · País: España
 · Presenta: Óscar López.</desc>
     <category lang="es">Cultural/Educativo, Literatura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3490417" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4014901" />
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419125500 +0200" stop="20250419133000 +0200" channel="La 2">
     <title lang="es">Zoom tendencias</title>
@@ -2894,9 +2499,11 @@
     <title lang="es">Arqueomanía: Eslabones Perdidos</title>
     <desc lang="es">2024 | TP
  · Documentales/Ciencia tecnología · Arqueomanía viaja a Sudáfrica para mostrar varios de los yacimientos de evolución humana.
-</desc>
+· País: España
+· Dirección: Manuel Pimentel.
+· Productora: La Nave del Tharsis, New Atlantis.</desc>
     <category lang="es">Documentales, Ciencia tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3223905" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015124" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2905,9 +2512,11 @@
     <title lang="es">Tendido cero T24/25 E30</title>
     <desc lang="es">2025 | ⑫
  · Toros/Corrida de toros · Programa sobre el mundo de los toros con reportajes, entrevistas y retransmisiones.
-</desc>
+· País: España
+· Dirección: Belén Plaza.
+· Productora: Televisión Española (TVE).</desc>
     <category lang="es">Toros, Corrida de toros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3497690" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015117" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -2916,9 +2525,11 @@
     <title lang="es">Sabores del mundo T1</title>
     <desc lang="es">San Petersburgo, la joya de Rusia | 2021 | TP
  · Ocio y Aficiones/Viajes · Un viaje por las tradiciones y la historia de los mejores destinos del mundo a través de sus monumentos, artesanías y paisajes más espectaculares.
-· Título original: Flavors (T1): Saint Petersburg</desc>
+· Título original: Flavors (T1): Saint Petersburg
+· País: Francia
+· Presenta: Anatole De Bodinat.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3969776" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015068" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2927,9 +2538,12 @@
     <title lang="es">Saber y ganar fin de semana T2025 E31</title>
     <desc lang="es">2025 | TP
  · Entretenimiento/Concurso · Edición de fin de semana del concurso más longevo de Televisión Española.
-</desc>
+· País: España
+· Presenta: Jordi Hurtado.
+· Dirección: Sergi Schaaff.
+· Productora: Quart.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3901339" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015088" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2954,7 +2568,7 @@
   <programme start="20250419170900 +0200" stop="20250419180500 +0200" channel="La 2">
     <title lang="es">Delfines salvajes</title>
     <desc lang="es">2017 | TP | ★6.0/10
- · Documentales/Naturaleza · En las aguas de Nueva Zelanda viven algunos de los delfines más decididos, atléticos y carismáticos que existen. Los delfines mulares tienen que surcar las aguas heladas de Fiordland para conseguir que sus crías sobrevivan. Votos: 74.
+ · Documentales/Naturaleza · En las aguas de Nueva Zelanda viven algunos de los delfines más decididos, atléticos y carismáticos que existen. Los delfines mulares tienen que surcar las aguas heladas de Fiordland para conseguir que sus crías sobrevivan. Votos: 114.
 · Título original: Wild Dolphins
 · País: Nueva Zelanda</desc>
     <category lang="es">Documentales, Naturaleza</category>
@@ -2970,9 +2584,9 @@
     <title lang="es">Turismo rural en el mundo</title>
     <desc lang="es">Japón. De Hokkaido a Okinawa, de norte a sur | 2018 | TP | ★6.0/10
  · Documentales/Viajes · Japón esconde una de las culturas más fascinantes del mundo. Este archipiélago formado por 6852 islas encierra una diversidad natural inusitada. Realizamos un viaje de norte a sur;desde la gélida isla de Hokkaido a la espiritual Shikoku. Votos: 41.
-</desc>
+· País: España</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1508138" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1521359" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -2986,7 +2600,7 @@
  · Documentales/Viajes · Espacio que introduce a los espectadores en las numerosas casas dedicadas al turismo rural que existen en el mundo. El programa propone, además del lugar de alojamiento, rutas y actividades de interés que se pueden realizar en las proximidades. Votos: 6.
 · País: España</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1508138" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1668694" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -3014,8 +2628,11 @@
     <title lang="es">Las revoluciones que cambiaron la historia</title>
     <desc lang="es">Tercera Guerra Servil | 2024 | ⑦
  · Documentales/Historia · En el año 73 a. C. Espartaco se puso al frente de una rebelión de esclavos que se convirtió en un verdadero problema para la República romana. Una tropa de esclavos logró dominar, burlar, y superar en estrategia a los grandes romanos.
-· Título original: Revolutions That...: The Third Serile War</desc>
+· Título original: Revolutions That...: The Third Serile War
+· País: Canadá
+· Productora: Go Button Media.</desc>
     <category lang="es">Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015056" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -3024,20 +2641,24 @@
     <title lang="es">El condensador de Fluzo T5</title>
     <desc lang="es">La influencia del clima en la historia | 2025 | ⑦
  · Cultural/Educativo/Programa cultural · Abrigaos bien, El Barroquista nos lo contará todo sobre la pequeña edad de hielo que asoló al hemisferio norte durante la Edad Moderna.
-</desc>
+· País: España
+· Presenta: Maya Pixelskaya.</desc>
     <category lang="es">Cultural/Educativo, Programa cultural</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3912475" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015070" />
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
   <programme start="20250419215500 +0200" stop="20250419220000 +0200" channel="La 2">
     <title lang="es">Santos Oficios T2025</title>
-    <desc lang="es">Triduo Pascual (Sábado Santo) | 2025
- · Cultural/Educativo/Religión · Las cámaras son testigos de la celebración de los Santos Oficios de Semana Santa desde la ciudad madrileña de Getafe.
-</desc>
+    <desc lang="es">Triduo Pascual (Sábado Santo) | 2025 | ★8.0/10
+ · Cultural/Educativo/Religión · Las cámaras son testigos de la celebración de los Santos Oficios de Semana Santa desde la ciudad madrileña de Getafe. Votos: 1.
+· País: España</desc>
     <category lang="es">Cultural/Educativo, Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4013997" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4015060" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419220000 +0200" stop="20250420003000 +0200" channel="La 2">
     <title lang="es">Semana Santa en RTVE T2025</title>
@@ -3998,8 +3619,8 @@
   </programme>
   <programme start="20250422041000 +0200" stop="20250422050500 +0200" channel="La 2">
     <title lang="es">Alias T1 E6</title>
-    <desc lang="es">Ajuste de cuentas | 2001 | TP | ★2.0/10
- · Series/Aventuras · Sydney está aturdida tras conocer la muerte de cuatro agentes de la CIA en una explosión. Votos: 3.
+    <desc lang="es">Ajuste de cuentas | 2001 | TP | ★4.0/10
+ · Series/Aventuras · Sydney está aturdida tras conocer la muerte de cuatro agentes de la CIA en una explosión. Votos: 5.
 · Título original: Alias (T1): Ep.6 Reckoning
 · País: EE.UU.
 · Reparto: Ron Rifkin, Victor Garber, Jennifer Garner.</desc>
@@ -4009,7 +3630,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>2.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250422050500 +0200" stop="20250422055000 +0200" channel="La 2">
@@ -4875,42 +4496,25 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417061500 +0200" stop="20250417085500 +0200" channel="Antena 3 HD">
-    <title lang="es">Las noticias de la mañana</title>
-    <desc lang="es">2014 | ★6.0/10
- · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 623.
-· País: España
-· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758281" />
+  <programme start="20250424053000 +0200" stop="20250424063000 +0200" channel="La 2">
+    <title lang="es">La 2 express</title>
+    <desc lang="es">2019 | ★6.0/10
+ · Entretenimiento · En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos. Votos: 110.
+· País: España</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1895343" />
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417085500 +0200" stop="20250417132000 +0200" channel="Antena 3 HD">
-    <title lang="es">Espejo Público T19 E4497</title>
-    <desc lang="es">2025 | ⑯ | ★6.0/10
- · Información/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad. Votos: 63.
+  <programme start="20250424063000 +0200" stop="20250424064500 +0200" channel="La 2">
+    <title lang="es">That's English T24/25</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 11.
 · País: España
-· Dirección: Julián Nieto.</desc>
-    <category lang="es">Información, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3979865" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417132000 +0200" stop="20250417134500 +0200" channel="Antena 3 HD">
-    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2930</title>
-    <desc lang="es">2025 | TP | ★6.0/10
- · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 56.
-· País: España
-· Presenta: Karlos Arguiñano.
-· Productora: Bainet TV.</desc>
-    <category lang="es">Ocio y Aficiones, Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3979871" />
+· Dirección: Andrew Morgan.</desc>
+    <category lang="es">Cultural/Educativo, Idiomas</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517644" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -4918,14 +4522,125 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417134500 +0200" stop="20250417150000 +0200" channel="Antena 3 HD">
-    <title lang="es">La ruleta de la suerte T2024 E4205</title>
-    <desc lang="es">2024 | TP | ★8.0/10
- · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios. Votos: 13.
+  <programme start="20250424064500 +0200" stop="20250424070000 +0200" channel="La 2">
+    <title lang="es">That's English T24/25</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Cultural/Educativo/Idiomas · Programa divulgativo que ofrece un curso de inglés a distancia. Votos: 11.
 · País: España
-· Presenta: Jorge Fernández.</desc>
-    <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3322411" />
+· Dirección: Andrew Morgan.</desc>
+    <category lang="es">Cultural/Educativo, Idiomas</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517644" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424070000 +0200" stop="20250424072500 +0200" channel="La 2">
+    <title lang="es">Inglés Online T24/25</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Cultural/Educativo/Idiomas · Curso de inglés de Televisión Española para hisponoparlantes. Votos: 12.
+· País: España</desc>
+    <category lang="es">Cultural/Educativo, Idiomas</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3517642" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424072500 +0200" stop="20250424074000 +0200" channel="La 2">
+    <title lang="es">Zoom tendencias</title>
+    <desc lang="es">2017 | TP | ★6.0/10
+ · Ocio y Aficiones/Ocio y cultura · Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa. Votos: 200.
+· País: España
+· Dirección: Mercedes Cámara.</desc>
+    <category lang="es">Ocio y Aficiones, Ocio y cultura</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P799936" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424074000 +0200" stop="20250424081500 +0200" channel="La 2">
+    <title lang="es">Zoom tendencias</title>
+    <desc lang="es">2017 | TP | ★6.0/10
+ · Ocio y Aficiones/Ocio y cultura · Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa. Votos: 200.
+· País: España
+· Dirección: Mercedes Cámara.</desc>
+    <category lang="es">Ocio y Aficiones, Ocio y cultura</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P799936" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424081500 +0200" stop="20250424090000 +0200" channel="La 2">
+    <title lang="es">El ciclo de la vida salvaje</title>
+    <desc lang="es">2021 | TP | ★6.0/10
+ · Documentales/Naturaleza · Mientras la Tierra gira alrededor del Sol, la fauna silvestre de todo el planeta se adapta a las estaciones cambiantes. Votos: 5.
+· Título original: A Wild Year on Earth
+· País: R.U.
+· Productora: Northern Pictures.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2187514" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424090000 +0200" stop="20250424093000 +0200" channel="La 2">
+    <title lang="es">Pueblo de Dios</title>
+    <desc lang="es">1982 | TP | ★6.0/10
+ · Cultural/Educativo/Religión · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica. Votos: 109.
+· País: España
+· Dirección: Julián Del Olmo.
+· Productora: Televisión Española (TVE).</desc>
+    <category lang="es">Cultural/Educativo, Religión</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1727415" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424093000 +0200" stop="20250424095500 +0200" channel="La 2">
+    <title lang="es">Aquí hay trabajo</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Información/Magacín · Programa sobre el empleo, la seguridad y la última hora del mercado laboral. Votos: 12.
+· País: España
+· Presenta: Antolín Romero, María José Molina.
+· Dirección: Carmen Álvarez Lozano.
+· Productora: Televisión Española (TVE).</desc>
+    <category lang="es">Información, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3484360" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424095500 +0200" stop="20250424105500 +0200" channel="La 2">
+    <title lang="es">La aventura del saber</title>
+    <desc lang="es">2024 | TP | ★8.0/10
+ · Cultural/Educativo/Programa cultural · Entrevistas y series documentales educativas sobre cultura y sociedad. Votos: 15.
+· Título original: La aventura del Saber
+· País: España
+· Presenta: Mara Peterssen, Fede Cardelús.
+· Dirección: Mara Peterssen, Lurdes Martín.
+· Productora: Televisión Española (TVE).</desc>
+    <category lang="es">Cultural/Educativo, Programa cultural</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3228383" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -4933,51 +4648,93 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417150000 +0200" stop="20250417153000 +0200" channel="Antena 3 HD">
-    <title lang="es">Antena 3 Noticias 1</title>
-    <desc lang="es">★6.0/10
- · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 932.
-· País: España
-· Dirección: Sandra Golpe.</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758302" />
+  <programme start="20250424105500 +0200" stop="20250424114000 +0200" channel="La 2">
+    <title lang="es">Súper sensorial</title>
+    <desc lang="es">2017 | TP | ★6.0/10
+ · Documentales/Naturaleza · Algunos animales tienen órganos sensoriales extraños para asegurarse la supervivencia. Votos: 16.
+· Título original: Super Senses
+· País: Australia
+· Dirección: Max Serio, Bettina Dalton.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1528700" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417153000 +0200" stop="20250417153500 +0200" channel="Antena 3 HD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 462.
+  <programme start="20250424114000 +0200" stop="20250424120500 +0200" channel="La 2">
+    <title lang="es">Culturas 2 T3</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Ocio y Aficiones/Espectáculo · Espacio que trata de reflejar la actualidad, con el objetivo de captar las tendencias culturales, las líneas de pensamiento que van vertebrando la sociedad que construimos. Votos: 8.
 · País: España
-· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
-    <category lang="es">Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105271" />
+· Presenta: Tània Sàrrias.</desc>
+    <category lang="es">Ocio y Aficiones, Espectáculo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3492867" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417153500 +0200" stop="20250417154500 +0200" channel="Antena 3 HD">
-    <title lang="es">Tu tiempo con Roberto Brasero</title>
-    <desc lang="es">★6.0/10
- · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 513.
+  <programme start="20250424120500 +0200" stop="20250424130500 +0200" channel="La 2">
+    <title lang="es">Reduce tu huella</title>
+    <desc lang="es">2022 | TP | ★6.0/10
+ · Cultural/Educativo/Programa cultural · Adela Úcar viaja por España para mostrar ejemplos de economía circular y prácticas sostenibles. El objetivo de la divulgadora es crear conciencia ecológica entre la audiencia. Votos: 1.
 · País: España
-· Presenta: Roberto Brasero.</desc>
-    <category lang="es">Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P997438" />
+· Presenta: Adela Ucar.</desc>
+    <category lang="es">Cultural/Educativo, Programa cultural</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2129430" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417154500 +0200" stop="20250417170000 +0200" channel="Antena 3 HD">
-    <title lang="es">Sueños de libertad T1 E290</title>
-    <desc lang="es">2025 | ⑫ | ★6.0/10
- · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 61.
-· País: España
-· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
-· Productora: Atresmedia, Diagonal TV.</desc>
-    <category lang="es">Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3979887" />
+  <programme start="20250424130500 +0200" stop="20250424135500 +0200" channel="La 2">
+    <title lang="es">Grandes misterios de la ciencia</title>
+    <desc lang="es">2022 | TP | ★6.0/10
+ · Documentales/Ciencia tecnología · Hemos resuelto algunas de las preguntas más complejas sobre nuestro mundo y el universo. Pero cuanto más descubrimos, más problemas surgen. Cada episodio de este documental aborda un misterio de la ciencia aún sin resolver. Votos: 33.
+· Título original: Science's Greatest Mysteries
+· País: R.U.
+· Dirección: Ross Kirby.</desc>
+    <category lang="es">Documentales, Ciencia tecnología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2067196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424135500 +0200" stop="20250424144000 +0200" channel="La 2">
+    <title lang="es">Diseños fabulosos</title>
+    <desc lang="es">2022 | TP | ★10.0/10
+ · Ocio y Aficiones/Decoración · Un viaje por los diseños de casas más extraordinarias de todo el mundo. La serie presenta las arquitecturas e interiores más espectaculares que no sólo son innovadores e inusuales. Votos: 1.
+· País: Francia
+· Dirección: Frédéric Planchenault.</desc>
+    <category lang="es">Ocio y Aficiones, Decoración</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3128771" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424144000 +0200" stop="20250424154000 +0200" channel="La 2">
+    <title lang="es">La caída del Reich</title>
+    <desc lang="es">2014 | ⑫ | ★6.0/10
+ · Documentales/Historia · Documental sobre los acontecimientos históricos de los últimos once meses de la II Guerra Mundial, desde el desembarco de Normandía hasta la capitulación del régimen nazi, el 7 de mayo de 1945. Votos: 21.
+· Título original: 1945, la chute du Reich
+· País: Francia
+· Dirección: David Korn-Brzoza.
+· Productora: Cinétévé.</desc>
+    <category lang="es">Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1574407" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -4985,31 +4742,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417170000 +0200" stop="20250417200000 +0200" channel="Antena 3 HD">
-    <title lang="es">Y ahora, Sonsoles T3 E164</title>
-    <desc lang="es">2025 | ⑯ | ★6.0/10
- · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega. Votos: 52.
-· País: España
-· Presenta: Sonsoles Ónega.
-· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
-    <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3979859" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250417200000 +0200" stop="20250417210000 +0200" channel="Antena 3 HD">
-    <title lang="es">Pasapalabra T4 E1253</title>
+  <programme start="20250424154000 +0200" stop="20250424162500 +0200" channel="La 2">
+    <title lang="es">Saber y ganar T2025</title>
     <desc lang="es">2025 | TP | ★6.0/10
- · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes. Votos: 51.
+ · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí. Votos: 16.
 · País: España
-· Presenta: Roberto Leal.
-· Productora: Atresmedia Studios, ITV Studios.</desc>
+· Presenta: Jordi Hurtado.
+· Dirección: Sergi Schaaff.
+· Productora: Quart.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3979877" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3900195" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -5017,51 +4759,59 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417210000 +0200" stop="20250417213000 +0200" channel="Antena 3 HD">
-    <title lang="es">Antena 3 Noticias 2</title>
-    <desc lang="es">★8.0/10
- · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1253.
-· País: España
-· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
-    <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758329" />
+  <programme start="20250424162500 +0200" stop="20250424171500 +0200" channel="La 2">
+    <title lang="es">La hermandad de los leones</title>
+    <desc lang="es">2023 | ⑦ | ★8.0/10
+ · Documentales/Naturaleza · El seguimiento de tres leonas y sus jóvenes cachorros en la reserva de Masai Mara. El conflicto surge cuando las madres regresan con nuevos cachorros y la necesidad de reproducirse las lleva a regiones desconocidas. Votos: 1.
+· Título original: Löwenbrüder
+· País: Alemania
+· Dirección: Reinhard Radke.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3367149" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
     <star-rating system="ES">
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417213000 +0200" stop="20250417213500 +0200" channel="Antena 3 HD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 566.
-· País: España
-· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
-    <category lang="es">Información, Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105272" />
+  <programme start="20250424171500 +0200" stop="20250424180000 +0200" channel="La 2">
+    <title lang="es">Fuerzas de la naturaleza</title>
+    <desc lang="es">2020 | TP | ★6.0/10
+ · Documentales/Naturaleza · Las fuerzas de la naturaleza han moldeado el planeta desde siempre: han provocado una devastación increíble y, a su vez, han creado nuevas oportunidades para la vida. Votos: 14.
+· Título original: Forces of Nature
+· País: Alemania
+· Dirección: Phil Coles.
+· Productora: National Geographic Society, ZDF Enterprises, NDR Naturfilm.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2164095" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417213500 +0200" stop="20250417214500 +0200" channel="Antena 3 HD">
-    <title lang="es">La previsión de las 9</title>
-    <desc lang="es">★6.0/10
- · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 494.
-· País: España
-· Presenta: Roberto Brasero.</desc>
-    <category lang="es">Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105306" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+  <programme start="20250424180000 +0200" stop="20250424191800 +0200" channel="La 2">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250417214500 +0200" stop="20250417225000 +0200" channel="Antena 3 HD">
-    <title lang="es">El hormiguero 3.0 T19</title>
-    <desc lang="es">2024 | ⑦ | ★6.0/10
- · Entretenimiento/Humor · Programa que mezcla la ciencia, la música y la política con el humor. Votos: 119.
+  <programme start="20250424191800 +0200" stop="20250424205000 +0200" channel="La 2">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250424205000 +0200" stop="20250424212000 +0200" channel="La 2">
+    <title lang="es">Diario de un nómada: La Ruta de la Seda</title>
+    <desc lang="es">2018 | ⑦ | ★6.0/10
+ · Documentales/Viajes · En esta séptima temporada, Miquel Silvestre recorrerá Asia central, desde Rusia a Kirguistán, en un viaje que parte de Volgogrado, antigua Stalingrado. Toda una aventura por las carreteras de Rusia, Kazajistán, Uzbekistán y Kirguistán. Votos: 14.
 · País: España
-· Presenta: Pablo Motos.
-· Productora: 7 y acción.</desc>
-    <category lang="es">Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4032500" />
+· Presenta: Miquel Silvestre.</desc>
+    <category lang="es">Documentales, Viajes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1524764" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -5069,82 +4819,120 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250417225000 +0200" stop="20250418010000 +0200" channel="Antena 3 HD">
-    <title lang="es">Fatale</title>
-    <desc lang="es">2020 | ⑯ | ★6.0/10
- · Cine/Thriller · Derrick Tyler, un exitoso agente deportivo, tiene una aventura extramarital con Val Quinlan, una mujer que conoce en una discoteca. Cuando poco tiempo después su casa es asaltada, la detective que acude a investigar es nada menos que la propia Val. Votos: 488.
-· País: EE.UU.
-· Dirección: Deon Taylor.
-· Reparto: Hilary Swank, Michael Ealy, Mike Colter, Danny Pino, Tyrin Turner, Damaris Lewis, Geoffrey Owens.
-· Guion: David Loughery.
-· Música: Geoff Zanelli.
-· Producción: Hilary Swank, Deon Taylor, Roxanne Avent.
-· Productora: Hidden Empire Film Group.</desc>
-    <category lang="es">Cine, Thriller</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1863877" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418010000 +0200" stop="20250418023000 +0200" channel="Antena 3 HD">
-    <title lang="es">Certificado de muerte</title>
-    <desc lang="es">2001 | ⑯ | ★6.0/10
- · Cine para televisión/Cine TV drama · Junto a su esposa, Risk acuerda simular su propia muerte con el fin de cobrar el seguro. Votos: 92.
-· Título original: Determination of Death
-· País: EE.UU.
-· Dirección: Michael Miller.
-· Reparto: Michele Greene, Marc Singer, Veronica Hamel, John Ratzenberger, William Katt, George Dzundza.
-· Guion: James G. Hirsch, Sharon Barry McTigue.
-· Música: Dana Kaproff, Dana Kapproff.
-· Productora: World International Network (WIN).</desc>
-    <category lang="es">Cine para televisión, Cine TV drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P549054" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418023000 +0200" stop="20250418031500 +0200" channel="Antena 3 HD">
-    <title lang="es">Sportium Game Show</title>
-    <desc lang="es">2025 | ⑱ | ★4.0/10
- · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 20.
-· País: España
-· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3918996" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418031500 +0200" stop="20250418041500 +0200" channel="Antena 3 HD">
-    <title lang="es">Play Uzu Nights</title>
-    <desc lang="es">2020 | ⑱ | ★6.0/10
- · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
-· País: España</desc>
-    <category lang="es">Entretenimiento, Variedades</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1807649" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250418041500 +0200" stop="20250418064500 +0200" channel="Antena 3 HD">
-    <title lang="es">Juwelo</title>
+  <programme start="20250424212000 +0200" stop="20250424215500 +0200" channel="La 2">
+    <title lang="es">Cifras y letras T2</title>
     <desc lang="es">2024 | TP | ★6.0/10
- · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 13.
-· País: España</desc>
-    <category lang="es">Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3878724" />
+ · Entretenimiento/Concurso · Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle. Votos: 15.
+· País: España
+· Presenta: Aitor Albizua.
+· Productora: Radio Televisión Española (RTVE).</desc>
+    <category lang="es">Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3507776" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424215500 +0200" stop="20250424231000 +0200" channel="La 2">
+    <title lang="es">Programa por determinar</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250424231000 +0200" stop="20250425011500 +0200" channel="La 2">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250425011500 +0200" stop="20250425014500 +0200" channel="La 2">
+    <title lang="es">Conciertos de Radio-3 T24/25</title>
+    <desc lang="es">2024 | ⑦ | ★6.0/10
+ · Música/Concierto · Programa musical que recoge la actuación en directo de algún cantante o grupo. Votos: 12.
+· País: España
+· Dirección: Tomás Fernando Flores.</desc>
+    <category lang="es">Música, Concierto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3509477" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425014500 +0200" stop="20250425024000 +0200" channel="La 2">
+    <title lang="es">Grandes misterios de la ciencia</title>
+    <desc lang="es">2022 | TP | ★6.0/10
+ · Documentales/Ciencia tecnología · Hemos resuelto algunas de las preguntas más complejas sobre nuestro mundo y el universo. Pero cuanto más descubrimos, más problemas surgen. Cada episodio de este documental aborda un misterio de la ciencia aún sin resolver. Votos: 33.
+· Título original: Science's Greatest Mysteries
+· País: R.U.
+· Dirección: Ross Kirby.</desc>
+    <category lang="es">Documentales, Ciencia tecnología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2067196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425024000 +0200" stop="20250425032500 +0200" channel="La 2">
+    <title lang="es">Diseños fabulosos</title>
+    <desc lang="es">2022 | TP | ★10.0/10
+ · Ocio y Aficiones/Decoración · Un viaje por los diseños de casas más extraordinarias de todo el mundo. La serie presenta las arquitecturas e interiores más espectaculares que no sólo son innovadores e inusuales. Votos: 1.
+· País: Francia
+· Dirección: Frédéric Planchenault.</desc>
+    <category lang="es">Ocio y Aficiones, Decoración</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3128771" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425032500 +0200" stop="20250425041500 +0200" channel="La 2">
+    <title lang="es">La hermandad de los leones</title>
+    <desc lang="es">2023 | ⑦ | ★8.0/10
+ · Documentales/Naturaleza · El seguimiento de tres leonas y sus jóvenes cachorros en la reserva de Masai Mara. El conflicto surge cuando las madres regresan con nuevos cachorros y la necesidad de reproducirse las lleva a regiones desconocidas. Votos: 1.
+· Título original: Löwenbrüder
+· País: Alemania
+· Dirección: Reinhard Radke.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3367149" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425041500 +0200" stop="20250425050500 +0200" channel="La 2">
+    <title lang="es">Súper sensorial</title>
+    <desc lang="es">2017 | TP | ★6.0/10
+ · Documentales/Naturaleza · Algunos animales tienen órganos sensoriales extraños para asegurarse la supervivencia. Votos: 16.
+· Título original: Super Senses
+· País: Australia
+· Dirección: Max Serio, Bettina Dalton.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1528700" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425050500 +0200" stop="20250425055500 +0200" channel="La 2">
+    <title lang="es">Borneo: El edén ancestral de la Tierra</title>
+    <desc lang="es">Borneo: isla antigua | 2019 | TP | ★6.0/10
+ · Documentales/Naturaleza · Borneo lleva en los trópicos 120 millones de años. En todo este tiempo, el sol, el calor y la lluvia han creado un paraíso para especies muy diversas. Votos: 49.
+· País: Austria
+· Dirección: Matt Hamilton.</desc>
+    <category lang="es">Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -5155,7 +4943,7 @@
   <programme start="20250418064500 +0200" stop="20250418070000 +0200" channel="Antena 3 HD">
     <title lang="es">Remescar cosmética al instante T1 E17</title>
     <desc lang="es">2025 | ⑫ | ★6.0/10
- · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 7.
+ · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 34.
 </desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3965053" />
@@ -5183,7 +4971,7 @@
   <programme start="20250418072500 +0200" stop="20250418075000 +0200" channel="Antena 3 HD">
     <title lang="es">Pelopicopata T1 E47</title>
     <desc lang="es">2016 | TP | ★6.0/10
- · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 80.
+ · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 118.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1323032" />
@@ -5197,7 +4985,7 @@
   <programme start="20250418075000 +0200" stop="20250418081500 +0200" channel="Antena 3 HD">
     <title lang="es">Pelopicopata T1 E48</title>
     <desc lang="es">2016 | TP | ★6.0/10
- · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 68.
+ · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 95.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1326503" />
@@ -5211,7 +4999,7 @@
   <programme start="20250418081500 +0200" stop="20250418123500 +0200" channel="Antena 3 HD">
     <title lang="es">Los más</title>
     <desc lang="es">2017 | TP | ★6.0/10
- · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 392.
+ · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 393.
 · País: España</desc>
     <category lang="es">Entretenimiento, Zapping</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P971818" />
@@ -5269,8 +5057,8 @@
   </programme>
   <programme start="20250418134500 +0200" stop="20250418150000 +0200" channel="Antena 3 HD">
     <title lang="es">La ruleta de la suerte T2024 E4216</title>
-    <desc lang="es">2024 | TP
- · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+    <desc lang="es">2024 | TP | ★10.0/10
+ · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios. Votos: 1.
 · País: España
 · Presenta: Jorge Fernández.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
@@ -5278,11 +5066,14 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250418150000 +0200" stop="20250418154500 +0200" channel="Antena 3 HD">
     <title lang="es">Antena 3 Noticias 1</title>
     <desc lang="es">★6.0/10
- · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 881.
+ · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 1022.
 · País: España
 · Dirección: Sandra Golpe.</desc>
     <category lang="es">Información, Informativo</category>
@@ -5294,7 +5085,7 @@
   <programme start="20250418154500 +0200" stop="20250418155500 +0200" channel="Antena 3 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 409.
+ · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 564.
 · País: España
 · Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
     <category lang="es">Información, Deportes</category>
@@ -5306,7 +5097,7 @@
   <programme start="20250418155500 +0200" stop="20250418160000 +0200" channel="Antena 3 HD">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <desc lang="es">★6.0/10
- · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 471.
+ · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 592.
 · País: España
 · Presenta: Roberto Brasero.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -5318,7 +5109,7 @@
   <programme start="20250418160000 +0200" stop="20250418175500 +0200" channel="Antena 3 HD">
     <title lang="es">Diario de una niñera</title>
     <desc lang="es">2007 | ⑫ | ★6.0/10
- · Cine/Comedia · Una joven universitaria, de clase trabajadora, intenta encontrar su lugar en el mundo. Acaba de licenciarse y, aunque su madre quiere que busque un puesto en el mundo de los negocios, termina aceptando el puesto de niñera con una familia adinerada. Votos: 847.
+ · Cine/Comedia · Una joven universitaria, de clase trabajadora, intenta encontrar su lugar en el mundo. Acaba de licenciarse y, aunque su madre quiere que busque un puesto en el mundo de los negocios, termina aceptando el puesto de niñera con una familia adinerada. Votos: 850.
 · Título original: The Nanny Diaries
 · País: EE.UU.
 · Dirección: Shari Springer Berman, Robert Pulcini.
@@ -5328,6 +5119,7 @@
 · Producción: Dany Wolf, Richard N. Gladstein.
 · Productora: The Weinstein Company, FilmColony.</desc>
     <category lang="es">Cine, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P739996" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -5337,26 +5129,35 @@
   </programme>
   <programme start="20250418175500 +0200" stop="20250418192500 +0200" channel="Antena 3 HD">
     <title lang="es">El sendero del amor</title>
-    <desc lang="es">2019 | TP
- · Cine/Drama · Cuando una nueva productora invita a un youtuber a ser co-presentador de su programa de televisión, Rachel tiene una crisis y decide tomarse unas vacaciones en su pueblo natal.
-</desc>
+    <desc lang="es">2019 | TP | ★8.0/10
+ · Cine/Drama · Cuando una nueva productora invita a un youtuber a ser co-presentador de su programa de televisión, Rachel tiene una crisis y decide tomarse unas vacaciones en su pueblo natal. Votos: 2.
+· Título original: Midway to Love
+· País: EE.UU.
+· Dirección: Jeffrey Day.
+· Reparto: Rachel Hendrix, Daniel Stine, Andrew Hunter, Dara Jade Tiller, Brenna Wood.
+· Guion: Thomas Lockridge.
+· Productora: Lucky Day Studios.</desc>
     <category lang="es">Cine, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4014169" />
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250418192500 +0200" stop="20250418210000 +0200" channel="Antena 3 HD">
     <title lang="es">Amor en Islandia</title>
     <desc lang="es">2020 | TP | ★8.0/10
  · Cine para televisión/Comedia romántica · Cloe y un grupo de amigos de la universidad emprenden un viaje a Islandia. Pero, para su sorpresa, también va Charlie, su ex con quien no terminó especialmente bien. Votos: 13.
+· Título original: Love on Iceland
 · País: EE.UU.
 · Dirección: Clare Niederpruem.
 · Reparto: Kaitlin Doubleday, Colin Donnell, Preston Sadleir, Jóel Sæmundsson, Kate Easton.
 · Guion: Liz Sczudlo, Yulin Kuang.
 · Productora: Hallmark Channel, Crown Media Productions.</desc>
     <category lang="es">Cine para televisión, Comedia romántica</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3128412" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -5367,7 +5168,7 @@
   <programme start="20250418210000 +0200" stop="20250418214500 +0200" channel="Antena 3 HD">
     <title lang="es">Antena 3 Noticias 2</title>
     <desc lang="es">★8.0/10
- · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1196.
+ · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1330.
 · País: España
 · Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
     <category lang="es">Información, Informativo</category>
@@ -5379,7 +5180,7 @@
   <programme start="20250418214500 +0200" stop="20250418215500 +0200" channel="Antena 3 HD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 478.
+ · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 640.
 · País: España
 · Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
     <category lang="es">Información, Deportes</category>
@@ -5391,7 +5192,7 @@
   <programme start="20250418215500 +0200" stop="20250418221000 +0200" channel="Antena 3 HD">
     <title lang="es">La previsión de las 9</title>
     <desc lang="es">★6.0/10
- · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 428.
+ · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 550.
 · País: España
 · Presenta: Roberto Brasero.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -5404,17 +5205,20 @@
     <title lang="es">Tu cara me suena T12</title>
     <desc lang="es">Especial momentazos | 2025 | TP
  · Entretenimiento/Telerrealidad · Programa especial que recopila las actuaciones más memorables y divertidas de las ediciones anteriores.
-</desc>
+· País: España
+· Presenta: Manel Fuentes.
+· Dirección: Tinet Rubira.
+· Productora: Gestmusic Endemol.</desc>
     <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4014277" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
   <programme start="20250419004500 +0200" stop="20250419021000 +0200" channel="Antena 3 HD">
     <title lang="es">Tu cara me suena: Grandes éxitos T2025 E3</title>
-    <desc lang="es">2025 | TP | ★10.0/10
- · Entretenimiento/Concurso · Recopilación de mejores momentos de anteriores ediciones de Tu cara me suena. Votos: 2.
+    <desc lang="es">2025 | TP | ★8.0/10
+ · Entretenimiento/Concurso · Recopilación de mejores momentos de anteriores ediciones de Tu cara me suena. Votos: 20.
 · País: España</desc>
     <category lang="es">Entretenimiento, Concurso</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4006464" />
@@ -5422,13 +5226,13 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250419021000 +0200" stop="20250419025500 +0200" channel="Antena 3 HD">
     <title lang="es">Sportium Game Show</title>
-    <desc lang="es">2025 | ⑱ | ★4.0/10
- · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 33.
+    <desc lang="es">2025 | ⑱ | ★6.0/10
+ · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 163.
 · País: España
 · Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
     <category lang="es">Entretenimiento</category>
@@ -5437,13 +5241,13 @@
       <value>18</value>
     </rating>
     <star-rating system="ES">
-      <value>4.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250419025500 +0200" stop="20250419035500 +0200" channel="Antena 3 HD">
     <title lang="es">Play Uzu Nights</title>
     <desc lang="es">2020 | ⑱ | ★6.0/10
- · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 102.
+ · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 252.
 · País: España</desc>
     <category lang="es">Entretenimiento, Variedades</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1807649" />
@@ -5457,7 +5261,7 @@
   <programme start="20250419035500 +0200" stop="20250419064500 +0200" channel="Antena 3 HD">
     <title lang="es">Juwelo</title>
     <desc lang="es">2024 | TP | ★6.0/10
- · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 18.
+ · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 159.
 · País: España</desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3878724" />
@@ -5471,7 +5275,7 @@
   <programme start="20250419064500 +0200" stop="20250419070000 +0200" channel="Antena 3 HD">
     <title lang="es">Remescar cosmética al instante T1 E18</title>
     <desc lang="es">2025 | ⑫ | ★6.0/10
- · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 7.
+ · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 138.
 </desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3965055" />
@@ -5513,7 +5317,7 @@
   <programme start="20250419075000 +0200" stop="20250419081500 +0200" channel="Antena 3 HD">
     <title lang="es">Pelopicopata T1 E2</title>
     <desc lang="es">2004 | TP | ★6.0/10
- · Entretenimiento · El programa muestra el instinto maternal de una leona con sus cuatro cachorros. Votos: 69.
+ · Entretenimiento · El programa muestra el instinto maternal de una leona con sus cuatro cachorros. Votos: 109.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1329232" />
@@ -5527,7 +5331,7 @@
   <programme start="20250419081500 +0200" stop="20250419102500 +0200" channel="Antena 3 HD">
     <title lang="es">Los más</title>
     <desc lang="es">2017 | TP | ★6.0/10
- · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 392.
+ · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 393.
 · País: España</desc>
     <category lang="es">Entretenimiento, Zapping</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P971818" />
@@ -5542,14 +5346,17 @@
     <title lang="es">Tu cara me suena T12</title>
     <desc lang="es">Especial momentazos | 2025 | TP
  · Entretenimiento/Telerrealidad · Programa especial que recopila las actuaciones más memorables y divertidas de las ediciones anteriores.
-</desc>
+· País: España
+· Presenta: Manel Fuentes.
+· Dirección: Tinet Rubira.
+· Productora: Gestmusic Endemol.</desc>
     <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4014277" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250419125500 +0200" stop="20250419132200 +0200" channel="Antena 3 HD">
+  <programme start="20250419125500 +0200" stop="20250419132500 +0200" channel="Antena 3 HD">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2905</title>
     <desc lang="es">2025 | TP
  · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -5562,7 +5369,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250419132200 +0200" stop="20250419135500 +0200" channel="Antena 3 HD">
+  <programme start="20250419132500 +0200" stop="20250419135500 +0200" channel="Antena 3 HD">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2906</title>
     <desc lang="es">2025 | TP | ★4.0/10
  · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 2.
@@ -5580,8 +5387,8 @@
   </programme>
   <programme start="20250419135500 +0200" stop="20250419150000 +0200" channel="Antena 3 HD">
     <title lang="es">La ruleta de la suerte T2024 E4204</title>
-    <desc lang="es">2024 | TP
- · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios. Votos: 28.
 · País: España
 · Presenta: Jorge Fernández.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
@@ -5589,11 +5396,14 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250419150000 +0200" stop="20250419154500 +0200" channel="Antena 3 HD">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
     <desc lang="es">★6.0/10
- · Información/Informativo · Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 532.
+ · Información/Informativo · Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 559.
 · Título original: Antena 3 Noticias 1 (Fin de semana)
 · País: España
 · Presenta: Matías Prats, Mónica Carrillo.</desc>
@@ -5606,7 +5416,7 @@
   <programme start="20250419154500 +0200" stop="20250419155500 +0200" channel="Antena 3 HD">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 446.
+ · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 448.
 · País: España
 · Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
     <category lang="es">Información, Deportes</category>
@@ -5618,7 +5428,7 @@
   <programme start="20250419155500 +0200" stop="20250419160000 +0200" channel="Antena 3 HD">
     <title lang="es">Tu tiempo fin de semana</title>
     <desc lang="es">★6.0/10
- · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 365.
+ · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 369.
 · País: España
 · Presenta: Himar González.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -5638,6 +5448,7 @@
 · Guion: Linda J. Cowgill, Clea DeCrane.
 · Productora: Blue Sky Films.</desc>
     <category lang="es">Cine para televisión, Cine TV drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3292530" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -5656,6 +5467,7 @@
 · Guion: Huelah Lander, J. Emilio Martinez.
 · Productora: Reel One Entertainment, Maple Island Films.</desc>
     <category lang="es">Cine para televisión, Cine TV thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3308512" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -5695,7 +5507,7 @@
   <programme start="20250419214500 +0200" stop="20250419215500 +0200" channel="Antena 3 HD">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">2013 | ★6.0/10
- · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 446.
+ · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 448.
 · País: España
 · Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
     <category lang="es">Información, Deportes</category>
@@ -5707,7 +5519,7 @@
   <programme start="20250419215500 +0200" stop="20250419221000 +0200" channel="Antena 3 HD">
     <title lang="es">Tu tiempo fin de semana</title>
     <desc lang="es">★6.0/10
- · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 365.
+ · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 369.
 · País: España
 · Presenta: Himar González.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -5716,10 +5528,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250419221000 +0200" stop="20250419233500 +0200" channel="Antena 3 HD">
+  <programme start="20250419221000 +0200" stop="20250419234000 +0200" channel="Antena 3 HD">
     <title lang="es">¡Salta! T1 E8</title>
-    <desc lang="es">2025 | ⑦
- · Entretenimiento/Concurso · Concurso que pone a prueba conocimientos de cultura general, estrategia y valentía.
+    <desc lang="es">2025 | ⑦ | ★8.0/10
+ · Entretenimiento/Concurso · Concurso que pone a prueba conocimientos de cultura general, estrategia y valentía. Votos: 1.
 · País: España
 · Presenta: Manel Fuentes.
 · Productora: Atresmedia, Buendía Estudios.</desc>
@@ -5728,8 +5540,11 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250419233500 +0200" stop="20250420011000 +0200" channel="Antena 3 HD">
+  <programme start="20250419234000 +0200" stop="20250420011000 +0200" channel="Antena 3 HD">
     <title lang="es">¡Salta! T1 E7</title>
     <desc lang="es">2025 | ⑦ | ★10.0/10
  · Entretenimiento/Concurso · Concurso que pone a prueba conocimientos de cultura general, estrategia y valentía. Votos: 1.
@@ -5874,7 +5689,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250420125500 +0200" stop="20250420132200 +0200" channel="Antena 3 HD">
+  <programme start="20250420125500 +0200" stop="20250420132500 +0200" channel="Antena 3 HD">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2907</title>
     <desc lang="es">2025 | TP
  · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -5887,10 +5702,10 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250420132200 +0200" stop="20250420135500 +0200" channel="Antena 3 HD">
+  <programme start="20250420132500 +0200" stop="20250420135500 +0200" channel="Antena 3 HD">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2908</title>
-    <desc lang="es">2025 | TP | ★4.0/10
- · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 2.
+    <desc lang="es">2025 | TP | ★6.0/10
+ · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 31.
 · País: España
 · Presenta: Karlos Arguiñano.
 · Productora: Bainet TV.</desc>
@@ -5900,7 +5715,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>4.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250420135500 +0200" stop="20250420150000 +0200" channel="Antena 3 HD">
@@ -6038,7 +5853,7 @@
   <programme start="20250420221000 +0200" stop="20250421021500 +0200" channel="Antena 3 HD">
     <title lang="es">Una nueva vida T1 E32</title>
     <desc lang="es">2023 | ⑯ | ★6.0/10
- · Series/Drama · Ferit y Seyran se divorcian oficialmente. Al salir del juzgado, ambos prestan declaración ante los medios de comunicación y Seyran pierde el conocimiento. Votos: 7.
+ · Series/Drama · Ferit y Seyran se divorcian oficialmente. Al salir del juzgado, ambos prestan declaración ante los medios de comunicación y Seyran pierde el conocimiento. Votos: 10.
 · Título original: Yali Çapkini (T1): Ep.32
 · País: Turquía
 · Reparto: Afra Saraçoglu, Mert Ramazan Demir, Gülçin Santircioglu, Emre Altug, Beril Pozam.</desc>
@@ -6441,8 +6256,8 @@
   </programme>
   <programme start="20250422154500 +0200" stop="20250422170000 +0200" channel="Antena 3 HD">
     <title lang="es">Sueños de libertad T1 E292</title>
-    <desc lang="es">2025 | ⑫ | ★8.0/10
- · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 14.
+    <desc lang="es">2025 | ⑫ | ★6.0/10
+ · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 37.
 · País: España
 · Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
 · Productora: Atresmedia, Diagonal TV.</desc>
@@ -6452,7 +6267,7 @@
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250422170000 +0200" stop="20250422200000 +0200" channel="Antena 3 HD">
@@ -6691,7 +6506,7 @@
   <programme start="20250423154500 +0200" stop="20250423170000 +0200" channel="Antena 3 HD">
     <title lang="es">Sueños de libertad T1 E293</title>
     <desc lang="es">2025 | ⑫ | ★10.0/10
- · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 1.
+ · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 2.
 · País: España
 · Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
 · Productora: Atresmedia, Diagonal TV.</desc>
@@ -6813,6 +6628,251 @@
     <title lang="es">Play Uzu Nights</title>
     <desc lang="es">2020 | ⑱ | ★6.0/10
  · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 102.
+· País: España</desc>
+    <category lang="es">Entretenimiento, Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1807649" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424041500 +0200" stop="20250424060000 +0200" channel="Antena 3 HD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">2024 | TP | ★6.0/10
+ · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 24.
+· Título original: Ventaprime</desc>
+    <category lang="es">Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3414523" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424060000 +0200" stop="20250424061500 +0200" channel="Antena 3 HD">
+    <title lang="es">Remescar cosmética al instante T1 E17</title>
+    <desc lang="es">2025 | ⑫ | ★6.0/10
+ · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 34.
+</desc>
+    <category lang="es">Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3965053" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424061500 +0200" stop="20250424085500 +0200" channel="Antena 3 HD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">2014 | ★6.0/10
+ · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 691.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758281" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424085500 +0200" stop="20250424132000 +0200" channel="Antena 3 HD">
+    <title lang="es">Espejo Público T19 E4501</title>
+    <desc lang="es">2025 | ⑯
+ · Información/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+    <category lang="es">Información, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012416" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250424132000 +0200" stop="20250424134500 +0200" channel="Antena 3 HD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2935</title>
+    <desc lang="es">2025 | TP
+ · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+    <category lang="es">Ocio y Aficiones, Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012380" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250424134500 +0200" stop="20250424150000 +0200" channel="Antena 3 HD">
+    <title lang="es">La ruleta de la suerte T2025 E4451</title>
+    <desc lang="es">2025 | TP
+ · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+    <category lang="es">Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012420" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250424150000 +0200" stop="20250424153000 +0200" channel="Antena 3 HD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">★6.0/10
+ · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 1022.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758302" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424153000 +0200" stop="20250424153500 +0200" channel="Antena 3 HD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">2013 | ★6.0/10
+ · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 564.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+    <category lang="es">Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105271" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424153500 +0200" stop="20250424154500 +0200" channel="Antena 3 HD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">★6.0/10
+ · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 592.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+    <category lang="es">Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P997438" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424154500 +0200" stop="20250424170000 +0200" channel="Antena 3 HD">
+    <title lang="es">Sueños de libertad T1 E294</title>
+    <desc lang="es">2025 | ⑫
+ · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+    <category lang="es">Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012438" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20250424170000 +0200" stop="20250424200000 +0200" channel="Antena 3 HD">
+    <title lang="es">Y ahora, Sonsoles T3 E168</title>
+    <desc lang="es">2025 | ⑯
+ · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+    <category lang="es">Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012432" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250424200000 +0200" stop="20250424210000 +0200" channel="Antena 3 HD">
+    <title lang="es">Pasapalabra T4 E1257</title>
+    <desc lang="es">2025 | TP | ★8.0/10
+ · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes. Votos: 1.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+    <category lang="es">Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012426" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424210000 +0200" stop="20250424213000 +0200" channel="Antena 3 HD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">★8.0/10
+ · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1330.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P758329" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424213000 +0200" stop="20250424213500 +0200" channel="Antena 3 HD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">2013 | ★6.0/10
+ · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 640.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+    <category lang="es">Información, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105272" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424213500 +0200" stop="20250424214500 +0200" channel="Antena 3 HD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">★6.0/10
+ · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 550.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+    <category lang="es">Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1105306" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250424214500 +0200" stop="20250424225000 +0200" channel="Antena 3 HD">
+    <title lang="es">El hormiguero 3.0 T19</title>
+    <desc lang="es">Antonio Orozco | 2025 | ⑦
+ · Entretenimiento/Humor · Programa que mezcla la ciencia, la música y la política con el humor.
+· País: España
+· Presenta: Pablo Motos.
+· Productora: 7 y acción.</desc>
+    <category lang="es">Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4012410" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20250424225000 +0200" stop="20250425011500 +0200" channel="Antena 3 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250425011500 +0200" stop="20250425023000 +0200" channel="Antena 3 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250425023000 +0200" stop="20250425031500 +0200" channel="Antena 3 HD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">2025 | ⑱ | ★6.0/10
+ · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 163.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3918996" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250425031500 +0200" stop="20250425041500 +0200" channel="Antena 3 HD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">2020 | ⑱ | ★6.0/10
+ · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 252.
 · País: España</desc>
     <category lang="es">Entretenimiento, Variedades</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1807649" />
